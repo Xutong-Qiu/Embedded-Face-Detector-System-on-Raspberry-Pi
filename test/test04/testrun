@@ -1,0 +1,21 @@
+cd ../../src/
+makeme
+cd ../test/test04
+make
+rm output1.txt
+touch output1.txt
+rm output2.txt
+touch output2.txt  
+start=`date +%s.%N`
+
+for FILE in ../../dataset/good_integral/validation/*; 
+	do driver4.exe $FILE ../../test/test10/o2.txt ../../test/test10/6weakcsecond.txt out.txt;	
+done
+end=`date +%s.%N`
+comp_t=$(echo "$end - $start" | bc -l)
+total=$(ls ../../dataset/good_integral/test/| wc -l)
+rate=$(echo "scale=5 ; $comp_t / $total" | bc)
+echo "Time in sec: $comp_t"
+echo "File number is: $total"
+echo "Performace ratio is $rate"
+

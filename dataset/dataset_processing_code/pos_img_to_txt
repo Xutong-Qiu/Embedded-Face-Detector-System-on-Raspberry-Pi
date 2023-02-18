@@ -1,0 +1,34 @@
+#Usage: run this script in the parent folder of /good. It will convert all good images to txt
+
+cd good 
+for i in {1..9}
+do
+  enee408mim2txt face0000$i.png > log
+  mv  face0000$i.txt ../good_txt
+done
+
+for i in {10..99}
+do
+  enee408mim2txt face000$i.png > log
+	mv  face000$i.txt ../good_txt
+done
+
+echo "99/2429"
+ 
+for i in {100..999}
+do
+  enee408mim2txt face00$i.png > log
+mv  face00$i.txt ../good_txt	
+done
+
+echo "999/2429"
+
+for i in {1000..2429}
+do
+  enee408mim2txt face0$i.png > log
+	mv  face0$i.txt ../good_txt 
+done
+
+
+echo "Conversion done!" 
+rm log

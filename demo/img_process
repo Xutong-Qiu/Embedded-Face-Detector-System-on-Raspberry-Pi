@@ -1,0 +1,13 @@
+# !/bin/bash
+cd picture
+for FILE in *.png; 
+	do echo $FILE;
+	enee408mim2txt $FILE;
+done
+
+for FILE in *.txt; 
+	do echo $FILE;
+  	a.out $FILE in.txt;
+	break;
+done
+	rm $FILE;

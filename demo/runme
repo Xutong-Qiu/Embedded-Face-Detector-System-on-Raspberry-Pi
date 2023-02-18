@@ -1,0 +1,9 @@
+img_process
+cd ../src/
+makeme
+cd ../demo
+make
+rm out.txt
+touch out.txt
+./demo.exe picture/in.txt ../test/test10/2weakcfirst.txt ../test/test10/6weakcsecond.txt out.txt
+cat out.txt 

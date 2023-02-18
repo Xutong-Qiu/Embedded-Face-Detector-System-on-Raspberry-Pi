@@ -1,0 +1,431 @@
+/*
+This is training algorithm for a strong classifier. Need weak classifier be trained and finished. 
+*/
+#include "utils.h"
+#include "WeakClassifier.h"
+#include "strongC.h"
+#include <iostream>
+#include <limits.h>
+#include <dirent.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <cstring>
+#include <fstream>
+#include <string>
+#include <vector>
+#include <sstream>
+#include <limits>
+#include <numeric>
+
+
+#define WEAK 1103   //need change, should be 180,000 something
+#define l 1319    //number of positives
+#define m 2772    //number of negatives
+
+using namespace std;
+
+
+strongC::strongC( int T, vector<float> alpha, vector<WeakClassifier> weakc_final){
+	
+  this->T = T;
+  this->alpha = alpha;
+  this->weakc_final = weakc_final; 
+
+}
+
+
+
+//T decide number of weak classifier
+
+
+void strongC::train(char* goodset, char* badset){
+  string fname;
+  int featuresize = 0;
+  //org_classifiers.csv
+  //second_strongc.csv
+  //hand_classifiers.csv
+  fname = "../../training/hand.csv";
+  DIR *dir;
+  struct dirent *ent;
+  printf("start");
+  vector<vector<vector<int>>> image_list(m+l , vector< vector<int> > (24, vector<int> (24,0) ) );
+  vector<float>alpha;
+  
+  
+  int count = 0;
+  if ((dir = opendir (goodset)) != NULL) {
+  
+    
+    while ((ent = readdir (dir)) != NULL) {
+    
+      if(strcmp(ent->d_name,".") == 0 || strcmp(ent->d_name, "..") == 0){    //skip . .. file
+        continue;
+      }
+      
+        char *temp = (char *)malloc(strlen(goodset) + strlen(ent->d_name) + 1);
+				strcpy(temp, goodset);
+				strcat(temp, ent->d_name);
+        
+       vector<vector<int>> src = read_txt_image(temp, 24, 24);
+       for (int iRow = 0; iRow < src.size(); iRow++){
+        for (int iCol = 0; iCol < src[0].size(); iCol++){
+            image_list[count][iRow][iCol] = src[iRow][iCol];
+        }
+        
+       }
+       
+       count ++;
+       free(temp);
+      
+    }
+    closedir (dir);
+  } else {
+    /* could not open directory */
+    fprintf(stderr, "Can not open %s\n",goodset);
+    
+    
+  }
+  
+  if ((dir = opendir (badset)) != NULL) {
+  
+    
+    while ((ent = readdir (dir)) != NULL) {
+    
+      if(strcmp(ent->d_name,".") == 0 || strcmp(ent->d_name, "..") == 0){    //skip . .. file
+        continue;
+      }
+      char *temp = (char *)malloc(strlen(badset) + strlen(ent->d_name) + 1);
+				strcpy(temp, badset);
+				strcat(temp, ent->d_name);
+        
+       vector<vector<int>> src = read_txt_image(temp, 24, 24);
+       for (int iRow = 0; iRow < src.size(); iRow++){
+        for (int iCol = 0; iCol < src[0].size(); iCol++){
+            image_list[count][iRow][iCol] = src[iRow][iCol];
+        }
+        
+       }
+       
+       count ++;
+       free(temp);
+      
+    }
+    closedir (dir);
+  } else {
+    /* could not open directory */
+    fprintf(stderr, "Can not open %s\n",badset);
+    
+    
+  }
+  printf("Initialized %d images\n",m+l);
+  /***************************Now we initialize weights*/
+  
+  vector<float> weights(m+l,0.0);		//number of total image
+	for(int i = 0; i< m+l;i++){
+		if(i<m){
+       
+			weights[i] = (float)1/(2*m);
+		}else{
+			weights[i] = (float)1/(2*l);
+		}
+	}
+ printf("Initialized weights\n");
+ printf("Now we start creating weak classifier\n");
+ /****************************************************/
+ 
+ //a vector of weak classifier
+ vector<WeakClassifier> weak_grid;
+ 
+ 
+ //read in parameters from csv file, but skip the first line
+ 
+ vector<vector<string>> content;
+ vector<string> row;
+ string line, word;
+ fstream file (fname, ios::in);
+	int x = 1;
+ if(file.is_open()){
+   getline(file, line);    //skip first line
+ }else{
+   cout<<"Cannot open the file\n";
+ }
+ int pattern = 0;
+ int nrows = 0;
+ int ncols = 0;
+ // two other field is rowpos and colpos, the range of them would be [0,23]
+  for(int i = 0 ; i< WEAK; i++){		//a fix number of total weak classifier
+
+		
+		if(file.is_open()){
+  		if(getline(file, line)){
+  			row.clear();
+   
+  			stringstream str(line);
+        vector<int> config;            //config for each weak c
+  			while(getline(str, word, ',')){
+          
+          stringstream num(word);
+          
+          num >> x;
+          config.push_back(x);
+        }
+        
+        //create feature at different pos
+        pattern = config[0];
+        nrows = config[1];
+        ncols = config[2];
+         
+        if(nrows >24 || ncols > 24 || pattern < 1 || pattern > 5 ){
+              std::cout<<"parameter error!\n";
+              std::cout<<nrows<<"*"<<ncols<<endl;
+              
+              exit(1);
+          }
+          int difference = 0;
+          
+          if(pattern == 1){//vertical rectangle feature
+              if(nrows%2!=0 || nrows == 0){
+                  std::cout<<"row number in pattern 1 has to be non-zero even!\n";
+                  exit(1);
+              }
+              for(int i = -1+nrows; i < 24; i++){
+                  for(int j = -1+ncols; j< 24; j++){
+                      WeakClassifier *w = new WeakClassifier( 1, nrows, ncols, i, j);
+                      weak_grid.push_back(*w);
+                  }
+              }
+          }else if(pattern == 2){//horizontal rectangle feature
+              if(ncols%2!=0 || nrows == 0){
+                  std::cout<<"col number in pattern 2 has to be non-zero even!\n";
+                  exit(1);
+              }
+              for(int i = -1+nrows; i < 24; i++){
+                  for(int j = -1+ncols; j< 24; j++){
+                      WeakClassifier *w = new WeakClassifier( 2, nrows, ncols, i, j);
+                      weak_grid.push_back(*w);
+                  }
+              }
+          }else if(pattern == 3){//vertical-three-block rectangle feature
+              if(nrows%3!=0 || nrows == 0){
+                  std::cout<<"row number in pattern 3 has to be non-zero multiple of 3!\n";
+                  exit(1);
+              }
+              for(int i = -1+nrows; i < 24; i++){
+                  for(int j = -1+ncols; j< 24; j++){
+                      WeakClassifier *w = new WeakClassifier( 3, nrows, ncols, i, j);
+                      weak_grid.push_back(*w);
+                  }
+              }
+          }else if(pattern == 4){//horizontal-three-block rectangle feature
+              if(ncols%3!=0 || nrows == 0){
+                  std::cout<<"col number in pattern 4 has to be non-zero multiple of 3!\n";
+                  exit(1);
+              }
+              for(int i = -1+nrows; i < 24; i++){
+                  for(int j = -1+ncols; j< 24; j++){
+                      
+                      WeakClassifier *w = new WeakClassifier( 4, nrows, ncols, i, j);
+                      weak_grid.push_back(*w);
+                  }
+              }
+          }else if(pattern == 5){//four-block square feature
+              if(ncols%2!=0 || nrows%2!=0 || nrows == 0){
+                  std::cout<<"col and row number in pattern 5 has to be non-zero multiple of 2!\n";
+                  exit(1);
+              }
+              
+              for(int i = -1+nrows; i < 24; i++){
+                  for(int j = -1+ncols; j< 24; j++){
+                      WeakClassifier *w = new WeakClassifier( 5, nrows, ncols, i, j);
+                      weak_grid.push_back(*w);
+                  }
+              }
+          }
+  			
+  		}
+	  }else{
+  		cout<<"Could not open the file\n";
+    }
+   
+		
+  }
+  featuresize = weak_grid.size();
+        
+    
+  printf("Done with initializing weak classifiers\n");
+  //Now, start training ***************************************************
+  
+  int y = 0;
+ 
+  float sum = 0.0;
+  int mark = 0;
+  float best = 0.0;
+  float errorsum = 0.0;
+  cout<<"Start looping...\n";
+  
+  
+  for(int a = 0 ; a< T; a++){				//big loop, go over T classfier to train it
+	printf("Loop %d\n",a);
+	//1.Normalize the weights 
+	sum = accumulate( weights.begin(),  weights.end(), 0.0);
+ printf("sum is %f\n",sum);
+	for(int i = 0; i<m+l;i++){
+		weights[i] = (weights[i])/sum;
+	}
+	
+  //1.5 train weak c
+  for(int k = 0; k< featuresize-a;k++){
+    vector<int> fvalue;
+    
+    for(int j = 0; j< m+l;j++){
+      fvalue.push_back(weak_grid[k].featurevalue(image_list[j]));    
+    }
+    
+   weak_grid[k].Best_Thresh(fvalue, l, m, weights);   //this function will update the thresh and p in the Best_Thresh function
+    
+  }
+  
+
+	//2.find the best weak classifier with the minimum weighted error
+	best = numeric_limits<float>::max(); //minimum weighted error
+	mark = 0; 		//keep track of the best classifier
+	//go over each rest available feature(classifier)
+	for(int j = 0; j< featuresize-a;j++){    
+	  
+		errorsum = 0.0;
+	
+		//go over every image and calculate the sum
+		for(int i = 0; i< m+l;i++){
+      if(i < m){
+        y = 0;
+      }else{
+        y = 1;
+      }
+
+			errorsum = errorsum + weights[i]*abs(weak_grid[j].classify(image_list[i]) - y);		
+		
+		}
+		//update best min classifier
+ 
+   printf("For weakc %d,errorsum is %f\n",j,errorsum);
+   errorsum = errorsum/(m+l);
+		if(errorsum < best){
+			 
+				best = errorsum;
+				mark = j;
+        
+		}
+	}
+ 
+	
+	//3.finalize the f,p,theta for current classifier,mark would hold the best weak classifier out of 180,000 weak classifiers
+ 
+ 
+  weakc_final.push_back(weak_grid[mark]);
+	
+	//remove this weak classifier from the weak_grid
+ 
+	weak_grid.erase(weak_grid.begin() + mark);
+	
+	cout << "Done, now weak grid size is " << weak_grid.size()<<", weakc_final size is "<< weakc_final.size()<< '\n';
+	
+	//4.update the weights grid for next weak classifier
+	
+	float b = best/(1-best);
+	float p = 10;
+ 
+	//skip the last column of weights update
+  if(a+1 == T){
+  alpha.push_back(log(1/b));
+         continue;
+  }
+ 
+	for(int i = 0; i <m+l;i++ ){
+     
+		if( i < m){
+      y = 0;      //not face
+    }else{
+      y = 1;       //is face
+    }
+		if(weakc_final[a].classify(image_list[i]) == y){    //classfied correctly
+			p = b;
+		}else{      //not correct
+			p = 1.0;
+			
+		}
+   
+	 weights[i] = weights[i] * p;
+	 
+	}
+	printf("Update weights done.\n");
+	//save alpha for each weak classifier
+	alpha.push_back(log(1/b));
+  printf("For weakc %d, alpha is %f,b is %f,best is %f\n",a,alpha[a],b,best);
+
+	}
+  //done with training
+	//Total of T weak classifiers
+ 
+ 
+ //save alpha and weakclassifier parameters
+ //Format: First line will be T number as T alpha
+ //Then there are T rows, each row as one weak classifier, with feature pattern, nrowl, ncol, rowpos, colpos,threth,p
+ ofstream outStream("output.txt");
+ //alpha
+  for(int i = 0; i<T;i++ ){
+      outStream << alpha[i];
+      outStream << ' ';
+    }
+    outStream << '\n';
+    for(int i = 0;i<T;i++){
+      outStream << weakc_final[i].pattern;
+      outStream << ' ';
+      outStream << weakc_final[i].nrows;
+      outStream << ' ';
+      outStream << weakc_final[i].ncols;
+      outStream << ' ';
+      outStream << weakc_final[i].rowpos;
+      outStream << ' ';
+      outStream << weakc_final[i].colpos;
+      outStream << ' ';
+      outStream << weakc_final[i].thresh;
+      outStream << ' ';
+      outStream << weakc_final[i].sign;
+      
+      outStream << '\n';
+    }
+    
+  
+    outStream.close();
+    cout<<"All Done. Finish training.\n"<<'\n';
+	
+}
+
+int strongC::test(vector<vector<int>> x){
+
+	//take in a single image x 
+	
+	float sumleft = 0.0;
+	float sumright = 0.0;
+	
+	for(int i =0; i< T; i++){
+		
+		sumleft = sumleft + alpha[i]*(weakc_final[i].classify(x));  
+    
+     sumright = sumright + alpha[i]/2;
+		
+	}
+
+	if(sumleft >= sumright){      
+	
+		return 1;
+		
+	}else{
+		return 0;
+	}
+	
+}
+
+strongC::~strongC() {
+    
+}

@@ -1,0 +1,23 @@
+goodtest
+Time in sec: 4.335613298
+File number is: 555
+Performace ratio is .00781
+badtest
+Time in sec: 5.058565271
+File number is: 888
+Performace ratio is .00569
+TP rate test
+ready to test
+There are 555 faces.
+There are 554 classified true faces.
+Truth positive rate is 0.998198.
+There are 888 faces.
+There are 358 classified true faces.
+False positive rate is 0.403153.
+There are 554 input.
+There are 519 classified true faces.
+Truth positive rate is 0.936823.
+There are 358 input.
+There are 224 classified true faces.
+False positive rate is 0.625698.
+Done

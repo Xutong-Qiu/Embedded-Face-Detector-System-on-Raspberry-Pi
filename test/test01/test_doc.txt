@@ -1,0 +1,1 @@
+Test the strong classifier's "test" functions

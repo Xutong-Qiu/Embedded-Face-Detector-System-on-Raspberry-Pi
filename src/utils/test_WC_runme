@@ -1,0 +1,5 @@
+g++ driver.cpp utils.h utils.cpp WeakClassifier.h WeakClassifier.cpp
+for FILE in ../../dataset/bad_integral/validation/*; 
+	do ./a.out $FILE >> output.txt
+done
+rm a.out

@@ -1,0 +1,13 @@
+# !/bin/bash
+cd bad
+for FILE in *.png; 
+	do echo $FILE; 
+	enee408mim2txt $FILE > log
+done
+
+rm log
+ 
+for FILE in *.txt; 
+	do echo $FILE;
+  	mv  $FILE ../bad_txt
+done
