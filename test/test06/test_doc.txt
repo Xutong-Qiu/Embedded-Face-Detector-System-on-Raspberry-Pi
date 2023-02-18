@@ -1,0 +1,1 @@
+Test truth positive and false positive rate only using good_integral/validation with test04/out.txt result

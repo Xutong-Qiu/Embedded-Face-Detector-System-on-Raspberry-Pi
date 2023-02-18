@@ -1,0 +1,3 @@
+
+g++ driver.cpp utils.cpp
+./a.out

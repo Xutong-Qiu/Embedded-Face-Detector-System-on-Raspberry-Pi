@@ -1,0 +1,6 @@
+# !/bin/bash
+cd bad_txt 
+for FILE in *.txt; 
+	do echo $FILE; 
+	../a.out ../bad_txt/$FILE ../bad_integral/$FILE
+done

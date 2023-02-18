@@ -1,0 +1,7 @@
+/homes/x/q/xqiu1234/home/enee408m/team1/test/test02/build-raspi/CMakeFiles/install/strip.dir
+/homes/x/q/xqiu1234/home/enee408m/team1/test/test02/build-raspi/CMakeFiles/install/local.dir
+/homes/x/q/xqiu1234/home/enee408m/team1/test/test02/build-raspi/CMakeFiles/install.dir
+/homes/x/q/xqiu1234/home/enee408m/team1/test/test02/build-raspi/CMakeFiles/list_install_components.dir
+/homes/x/q/xqiu1234/home/enee408m/team1/test/test02/build-raspi/CMakeFiles/rebuild_cache.dir
+/homes/x/q/xqiu1234/home/enee408m/team1/test/test02/build-raspi/CMakeFiles/edit_cache.dir
+/homes/x/q/xqiu1234/home/enee408m/team1/test/test02/build-raspi/CMakeFiles/driver.exe.dir

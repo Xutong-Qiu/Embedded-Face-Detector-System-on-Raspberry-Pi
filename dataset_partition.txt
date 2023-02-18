@@ -1,0 +1,24 @@
+The file shows how the team divided the dataset.
+In our way of partitioning the dataset, all the images have been renamed. This means we are not able to provide a list of images in each set since their names are changed and are not the same as the original dataset. The following shows the method we divided the dataset. 
+
+First, we use following script to rename all the images in the folders by number in order.
+
+# !/bin/bash
+cd bad_txt
+COUNTER=0
+for FILE in *.txt; 
+	do echo $FILE; 
+	let COUNTER=COUNTER+1
+	mv $FILE $COUNTER.txt
+done
+
+Then, we use shell command to move a number of images into corresponding folders.
+For example, "mv 111?.txt test/" moves 10 images into the test folder, and "mv 1??.txt train/" moves 100 images into the training folder.
+By using these commands multiple times, we were able to divide the dataset into three different sets following the ratio of number of images in differnet sets provided in the paper.
+
+
+
+
+
+
+

@@ -1,0 +1,8 @@
+cd ../../src/
+makeme
+cd ../test/test02
+make
+rm out.txt
+touch out.txt  
+./driver.exe ../../dataset/good_integral/test/11.txt ../../src/utils/output1.txt ../../src/utils/output.txt out.txt
+cat out.txt 

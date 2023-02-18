@@ -1,0 +1,18 @@
+TP rate test
+ready to test
+There are 555 faces.
+There are 551 classified true faces.
+Truth positive rate is 0.992793.
+There are 888 faces.
+There are 349 classified true faces.
+False positive rate is 0.393018.
+Done
+
+Goodtest:
+Time in sec: 3.817681214
+File number is: 555
+Performace ratio is .00687
+Badtest
+Time in sec: 5.635400546
+File number is: 888
+Performace ratio is .00634

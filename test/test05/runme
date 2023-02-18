@@ -1,0 +1,10 @@
+cd ../../src/
+makeme
+cd ../test/test05
+make
+rm output1.txt
+touch output1.txt
+rm output2.txt
+touch output2.txt  
+./driver5.exe ../../dataset/good_integral/test/11.txt ../../test/test07/output.txt ../../test/test07/2weakcfirst.txt out.txt
+cat out.txt 

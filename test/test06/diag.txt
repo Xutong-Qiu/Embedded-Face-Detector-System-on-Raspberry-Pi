@@ -1,0 +1,15 @@
+TP rate test
+ready to test
+There are 555 faces.
+There are 405 classified true faces.
+Truth positive rate is 0.729730.
+There are 888 faces.
+There are 590 classified true faces.
+False positive rate is 0.664414.
+There are 405 input.
+There are 124 classified true faces.
+Truth positive rate is 0.306173.
+There are 590 input.
+There are 325 classified true faces.
+False positive rate is 0.550847.
+Done

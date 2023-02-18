@@ -1,0 +1,6 @@
+# !/bin/bash
+cd good_txt 
+for FILE in *.txt; 
+	do echo $FILE; 
+	../a.out ../good_txt/$FILE ../good_integral/$FILE
+done

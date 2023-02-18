@@ -1,0 +1,8 @@
+# !/bin/bash
+cd bad_txt
+COUNTER=0
+for FILE in *.txt; 
+	do echo $FILE; 
+	let COUNTER=COUNTER+1
+	mv $FILE $COUNTER.txt
+done

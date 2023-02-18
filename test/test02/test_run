@@ -1,0 +1,8 @@
+rm out.txt
+touch out.txt  
+for FILE in ../../dataset/good_integral/test/*; 
+	do echo $FILE; 
+	driver.exe $FILE ../../src/utils/output1.txt ../../src/utils/output.txt out.txt;	
+done
+
+

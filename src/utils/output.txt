@@ -1,0 +1,4420 @@
+1
+0
+1
+0
+1
+0
+1
+0
+1
+1
+1
+1
+0
+1
+0
+1
+0
+1
+1
+1
+0
+1
+0
+0
+1
+1
+1
+0
+1
+1
+0
+0
+1
+1
+1
+0
+1
+0
+1
+0
+1
+0
+0
+1
+0
+0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0
+0
+1
+0
+0
+1
+0
+0
+0
+1
+1
+0
+0
+0
+1
+0
+1
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+1
+0
+1
+0
+1
+1
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+1
+1
+1
+0
+0
+0
+1
+1
+1
+0
+0
+1
+1
+0
+0
+1
+1
+1
+1
+0
+0
+1
+1
+0
+0
+1
+0
+1
+0
+1
+1
+1
+0
+1
+1
+0
+0
+0
+0
+1
+0
+1
+0
+0
+0
+0
+1
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+1
+0
+1
+0
+1
+0
+0
+0
+0
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+1
+1
+0
+1
+1
+1
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+1
+1
+0
+1
+1
+1
+1
+0
+1
+0
+0
+1
+0
+0
+0
+1
+1
+1
+1
+0
+0
+0
+0
+0
+1
+0
+1
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+1
+1
+0
+1
+0
+1
+0
+0
+1
+1
+0
+0
+1
+0
+0
+0
+1
+0
+1
+1
+0
+0
+0
+0
+0
+1
+1
+1
+0
+0
+1
+1
+0
+1
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+1
+1
+1
+1
+1
+1
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+1
+1
+1
+1
+1
+1
+0
+1
+1
+0
+0
+0
+0
+1
+1
+0
+0
+1
+0
+0
+0
+0
+0
+1
+1
+0
+0
+1
+0
+0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0
+0
+0
+1
+1
+1
+1
+1
+1
+1
+0
+1
+0
+0
+0
+0
+0
+1
+0
+1
+1
+1
+1
+0
+1
+1
+1
+0
+0
+0
+1
+1
+0
+1
+1
+1
+1
+1
+0
+1
+0
+1
+0
+0
+1
+0
+0
+1
+0
+0
+0
+1
+1
+1
+0
+1
+0
+0
+0
+1
+0
+0
+1
+1
+1
+1
+0
+0
+0
+0
+1
+1
+1
+0
+0
+0
+0
+1
+1
+0
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+1
+0
+1
+1
+1
+1
+0
+0
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+1
+0
+1
+0
+1
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+1
+1
+1
+0
+1
+1
+0
+0
+1
+1
+1
+1
+0
+0
+0
+0
+1
+1
+0
+1
+1
+0
+1
+1
+0
+1
+0
+1
+1
+0
+1
+0
+0
+0
+1
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+1
+0
+0
+1
+1
+1
+0
+1
+0
+0
+1
+0
+0
+1
+0
+1
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+1
+0
+0
+0
+1
+0
+1
+1
+0
+0
+0
+1
+0
+0
+1
+0
+0
+1
+1
+0
+1
+1
+1
+1
+0
+1
+0
+1
+0
+0
+1
+0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0
+1
+1
+1
+0
+0
+1
+1
+1
+0
+1
+0
+1
+0
+0
+1
+0
+0
+1
+1
+0
+0
+1
+0
+1
+0
+0
+1
+0
+0
+0
+0
+1
+1
+0
+1
+1
+0
+0
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+1
+1
+0
+1
+0
+0
+1
+1
+1
+0
+0
+0
+1
+0
+1
+0
+1
+0
+0
+0
+1
+0
+1
+0
+1
+1
+1
+0
+1
+1
+1
+1
+0
+1
+0
+1
+1
+1
+1
+1
+0
+1
+1
+0
+1
+1
+0
+0
+0
+0
+1
+1
+1
+0
+1
+1
+1
+1
+0
+0
+0
+1
+0
+1
+0
+1
+1
+0
+1
+0
+1
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+1
+0
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+1
+1
+0
+0
+0
+0
+0
+1
+1
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+1
+1
+0
+1
+0
+0
+1
+1
+1
+1
+1
+1
+1
+0
+1
+0
+0
+0
+1
+1
+1
+0
+1
+0
+1
+0
+0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0
+1
+1
+1
+0
+1
+0
+0
+1
+1
+1
+1
+1
+1
+1
+1
+0
+1
+1
+1
+1
+1
+0
+0
+1
+1
+0
+1
+0
+0
+1
+0
+0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0
+0
+1
+1
+1
+0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0
+1
+0
+1
+1
+1
+1
+1
+0
+0
+1
+1
+0
+1
+0
+1
+0
+0
+1
+1
+1
+1
+1
+0
+1
+1
+0
+0
+1
+0
+1
+1
+1
+1
+1
+1
+0
+1
+1
+1
+1
+1
+0
+0
+0
+1
+0
+1
+1
+1
+1
+1
+0
+1
+1
+1
+0
+1
+1
+1
+1
+0
+1
+0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0
+0
+1
+1
+1
+1
+0
+0
+1
+1
+0
+0
+1
+1
+0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0
+1
+1
+1
+0
+1
+1
+1
+1
+0
+1
+1
+1
+1
+1
+1
+0
+0
+1
+0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0
+1
+1
+1
+0
+1
+1
+1
+1
+1
+1
+0
+1
+1
+1
+0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0
+1
+1
+1
+0
+0
+1
+1
+1
+1
+1
+1
+0
+1
+1
+0
+1
+0
+0
+0
+1
+1
+1
+0
+0
+1
+1
+1
+1
+0
+1
+1
+1
+1
+0
+1
+1
+0
+0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0
+1
+1
+1
+1
+1
+1
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+1
+1
+0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0
+1
+1
+1
+1
+0
+1
+0
+1
+0
+1
+1
+1
+1
+1
+1
+0
+1
+1
+1
+1
+1
+0
+1
+1
+1
+1
+1
+1
+1
+0
+1
+0
+1
+1
+1
+1
+0
+1
+1
+1
+0
+1
+1
+1
+1
+1
+1
+0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0
+1
+1
+0
+1
+1
+1
+1
+1
+1
+0
+0
+1
+1
+1
+1
+0
+1
+1
+0
+0
+0
+0
+1
+0
+0
+0
+1
+0
+0
+1
+0
+1
+0
+1
+0
+0
+0
+0
+0
+1
+1
+1
+0
+0
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+1
+1
+1
+1
+1
+1
+1
+0
+1
+1
+1
+0
+1
+1
+1
+0
+1
+1
+1
+1
+1
+1
+1
+0
+1
+1
+0
+1
+0
+1
+1
+0
+0
+1
+1
+0
+1
+0
+1
+0
+0
+0
+1
+0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0
+0
+1
+1
+0
+0
+1
+1
+0
+1
+1
+1
+1
+1
+1
+1
+1
+0
+1
+1
+1
+0
+1
+0
+1
+1
+1
+1
+0
+0
+1
+1
+1
+1
+1
+1
+1
+0
+1
+1
+1
+1
+0
+0
+1
+0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0
+0
+0
+0
+0
+1
+0
+1
+1
+1
+1
+0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0
+1
+0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0
+1
+0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0
+0
+1
+1
+1
+1
+1
+0
+1
+1
+1
+0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0
+0
+1
+1
+1
+0
+1
+1
+1
+0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0
+0
+0
+1
+1
+1
+1
+0
+1
+0
+1
+0
+1
+1
+0
+0
+0
+1
+1
+1
+1
+1
+0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0
+0
+0
+1
+0
+1
+1
+0
+1
+0
+0
+1
+Feature 4 found, the difference is:-3907 at:4,23
+the value at that point is: 16149
+1
+0
+Feature 4 found, the difference is:-4929 at:4,23
+the value at that point is: 15253
+1
+Feature 4 found, the difference is:-3600 at:4,23
+the value at that point is: 15808
+1
+0
+Feature 4 found, the difference is:-4796 at:4,23
+the value at that point is: 14710
+1
+Feature 4 found, the difference is:-6106 at:7,23
+the value at that point is: 33571
+1
+Feature 4 found, the difference is:-547 at:4,23
+the value at that point is: 12503
+1
+Feature 4 found, the difference is:-3418 at:4,23
+the value at that point is: 12688
+1
+Feature 4 found, the difference is:-3446 at:4,23
+the value at that point is: 12984
+1
+Feature 4 found, the difference is:-185 at:4,23
+the value at that point is: 2695
+1
+Feature 4 found, the difference is:-5080 at:4,23
+the value at that point is: 10786
+1
+Feature 4 found, the difference is:-4315 at:4,23
+the value at that point is: 11805
+1
+Feature 4 found, the difference is:-4896 at:4,23
+the value at that point is: 13786
+1
+Feature 4 found, the difference is:-2411 at:4,23
+the value at that point is: 10139
+1
+Feature 4 found, the difference is:-1198 at:4,23
+the value at that point is: 7634
+1
+Feature 4 found, the difference is:-1068 at:4,23
+the value at that point is: 9118
+1
+Feature 4 found, the difference is:-2360 at:4,23
+the value at that point is: 8426
+1
+Feature 4 found, the difference is:738 at:4,23
+the value at that point is: 12280
+1
+Feature 4 found, the difference is:723 at:4,23
+the value at that point is: 12751
+1
+Feature 4 found, the difference is:-5701 at:4,23
+the value at that point is: 14061
+1
+Feature 4 found, the difference is:729 at:4,23
+the value at that point is: 7295
+1
+Feature 4 found, the difference is:-5028 at:4,23
+the value at that point is: 15944
+1
+Feature 4 found, the difference is:-6482 at:20,23
+the value at that point is: 86863
+1
+Feature 4 found, the difference is:-6103 at:4,23
+the value at that point is: 21719
+1
+Feature 4 found, the difference is:-2972 at:4,23
+the value at that point is: 15468
+1
+Feature 4 found, the difference is:-851 at:4,23
+the value at that point is: 12065
+1
+Feature 4 found, the difference is:-6154 at:4,23
+the value at that point is: 18882
+1
+0
+Feature 4 found, the difference is:755 at:4,23
+the value at that point is: 6061
+1
+Feature 4 found, the difference is:-5628 at:4,23
+the value at that point is: 17098
+1
+Feature 4 found, the difference is:-6230 at:6,23
+the value at that point is: 18244
+1
+Feature 4 found, the difference is:-5698 at:4,23
+the value at that point is: 18564
+1
+Feature 4 found, the difference is:-3990 at:4,23
+the value at that point is: 10768
+1
+Feature 4 found, the difference is:-4426 at:4,23
+the value at that point is: 12050
+1
+Feature 4 found, the difference is:-787 at:4,23
+the value at that point is: 11329
+1
+Feature 4 found, the difference is:-1195 at:4,23
+the value at that point is: 3591
+1
+Feature 4 found, the difference is:-348 at:4,23
+the value at that point is: 11752
+1
+Feature 4 found, the difference is:81 at:4,23
+the value at that point is: 3611
+1
+Feature 4 found, the difference is:-5872 at:6,23
+the value at that point is: 16777
+1
+Feature 4 found, the difference is:-455 at:4,23
+the value at that point is: 5857
+1
+Feature 4 found, the difference is:-647 at:4,23
+the value at that point is: 10295
+1
+Feature 4 found, the difference is:-3475 at:4,23
+the value at that point is: 13815
+1
+Feature 4 found, the difference is:-5171 at:4,23
+the value at that point is: 13839
+1
+Feature 4 found, the difference is:827 at:4,23
+the value at that point is: 10137
+1
+Feature 4 found, the difference is:-2209 at:4,23
+the value at that point is: 13219
+1
+Feature 4 found, the difference is:-4159 at:4,23
+the value at that point is: 13883
+1
+Feature 4 found, the difference is:1251 at:4,23
+the value at that point is: 14623
+1
+Feature 4 found, the difference is:-3109 at:4,23
+the value at that point is: 7391
+1
+Feature 4 found, the difference is:-2587 at:4,23
+the value at that point is: 17329
+1
+Feature 4 found, the difference is:-3344 at:4,23
+the value at that point is: 16338
+1
+Feature 4 found, the difference is:-1713 at:4,23
+the value at that point is: 8179
+1
+Feature 4 found, the difference is:-4092 at:4,23
+the value at that point is: 17276
+1
+Feature 4 found, the difference is:-3981 at:4,23
+the value at that point is: 15639
+1
+Feature 4 found, the difference is:-1826 at:4,23
+the value at that point is: 7712
+1
+Feature 4 found, the difference is:-1814 at:4,23
+the value at that point is: 5590
+1
+Feature 4 found, the difference is:-3283 at:4,23
+the value at that point is: 10135
+1
+Feature 4 found, the difference is:-393 at:4,23
+the value at that point is: 3865
+1
+Feature 4 found, the difference is:-2387 at:4,23
+the value at that point is: 8111
+1
+Feature 4 found, the difference is:-2675 at:4,23
+the value at that point is: 12259
+1
+Feature 4 found, the difference is:-1346 at:4,23
+the value at that point is: 5876
+1
+Feature 4 found, the difference is:-345 at:4,23
+the value at that point is: 3097
+1
+Feature 4 found, the difference is:-4779 at:4,23
+the value at that point is: 12157
+1
+Feature 4 found, the difference is:-1598 at:4,23
+the value at that point is: 6566
+1
+Feature 4 found, the difference is:-720 at:4,23
+the value at that point is: 4708
+1
+Feature 4 found, the difference is:-6151 at:4,23
+the value at that point is: 19475
+1
+Feature 4 found, the difference is:-3067 at:4,23
+the value at that point is: 12569
+1
+Feature 4 found, the difference is:200 at:4,23
+the value at that point is: 5012
+1
+Feature 4 found, the difference is:-3851 at:4,23
+the value at that point is: 11885
+1
+Feature 4 found, the difference is:-6175 at:4,23
+the value at that point is: 10711
+1
+Feature 4 found, the difference is:-4733 at:4,23
+the value at that point is: 16793
+1
+Feature 4 found, the difference is:-3311 at:4,23
+the value at that point is: 14425
+1
+Feature 4 found, the difference is:-3777 at:4,23
+the value at that point is: 11807
+1
+Feature 4 found, the difference is:-2944 at:4,23
+the value at that point is: 8100
+1
+Feature 4 found, the difference is:-3353 at:4,23
+the value at that point is: 11099
+1
+Feature 4 found, the difference is:-6283 at:4,23
+the value at that point is: 19543
+1
+Feature 4 found, the difference is:-1817 at:4,23
+the value at that point is: 8355
+1
+Feature 4 found, the difference is:-4213 at:4,23
+the value at that point is: 16229
+1
+Feature 4 found, the difference is:-5752 at:4,23
+the value at that point is: 18036
+1
+Feature 4 found, the difference is:-2136 at:4,23
+the value at that point is: 3744
+1
+Feature 4 found, the difference is:-1792 at:4,23
+the value at that point is: 5668
+1
+Feature 4 found, the difference is:-807 at:4,23
+the value at that point is: 2225
+1
+Feature 4 found, the difference is:-3725 at:4,23
+the value at that point is: 8015
+1
+Feature 4 found, the difference is:-766 at:4,23
+the value at that point is: 3602
+1
+Feature 4 found, the difference is:-715 at:4,23
+the value at that point is: 6505
+1
+Feature 4 found, the difference is:-1776 at:4,23
+the value at that point is: 9570
+1
+Feature 4 found, the difference is:-2447 at:4,23
+the value at that point is: 8881
+1
+Feature 4 found, the difference is:-905 at:4,23
+the value at that point is: 2961
+1
+Feature 4 found, the difference is:-191 at:4,23
+the value at that point is: 6661
+1
+Feature 4 found, the difference is:-2510 at:4,23
+the value at that point is: 8392
+1
+Feature 4 found, the difference is:-3487 at:4,23
+the value at that point is: 13291
+1
+Feature 4 found, the difference is:-5388 at:4,23
+the value at that point is: 13500
+1
+Feature 4 found, the difference is:-2722 at:4,23
+the value at that point is: 10792
+1
+Feature 4 found, the difference is:-679 at:4,23
+the value at that point is: 1305
+1
+Feature 4 found, the difference is:-2372 at:4,23
+the value at that point is: 5244
+1
+Feature 4 found, the difference is:-3367 at:4,23
+the value at that point is: 14941
+1
+Feature 4 found, the difference is:-3473 at:4,23
+the value at that point is: 10723
+1
+Feature 4 found, the difference is:-3470 at:4,23
+the value at that point is: 11872
+1
+Feature 4 found, the difference is:-3140 at:4,23
+the value at that point is: 20012
+1
+Feature 4 found, the difference is:-2273 at:4,23
+the value at that point is: 7677
+1
+Feature 4 found, the difference is:-506 at:4,23
+the value at that point is: 1696
+1
+Feature 4 found, the difference is:-4361 at:4,23
+the value at that point is: 12545
+1
+Feature 4 found, the difference is:-553 at:4,23
+the value at that point is: 6627
+1
+Feature 4 found, the difference is:-926 at:4,23
+the value at that point is: 5690
+1
+Feature 4 found, the difference is:-2894 at:4,23
+the value at that point is: 9878
+1
+Feature 4 found, the difference is:-891 at:4,23
+the value at that point is: 4989
+1
+Feature 4 found, the difference is:-3993 at:4,23
+the value at that point is: 10529
+1
+Feature 4 found, the difference is:-4671 at:4,23
+the value at that point is: 12603
+1
+Feature 4 found, the difference is:-5481 at:4,23
+the value at that point is: 17757
+1
+Feature 4 found, the difference is:-1864 at:4,23
+the value at that point is: 6144
+1
+Feature 4 found, the difference is:-3106 at:4,23
+the value at that point is: 9964
+1
+Feature 4 found, the difference is:-2270 at:4,23
+the value at that point is: 6662
+1
+Feature 4 found, the difference is:-2998 at:4,23
+the value at that point is: 14506
+1
+Feature 4 found, the difference is:-3961 at:4,23
+the value at that point is: 15343
+1
+Feature 4 found, the difference is:-4961 at:4,23
+the value at that point is: 16473
+1
+Feature 4 found, the difference is:-3077 at:4,23
+the value at that point is: 12811
+1
+Feature 4 found, the difference is:-1066 at:4,23
+the value at that point is: 9170
+1
+Feature 4 found, the difference is:-3581 at:4,23
+the value at that point is: 9449
+1
+Feature 4 found, the difference is:-4703 at:4,23
+the value at that point is: 17807
+1
+Feature 4 found, the difference is:-3752 at:4,23
+the value at that point is: 13564
+1
+Feature 4 found, the difference is:-3655 at:4,23
+the value at that point is: 13605
+1
+Feature 4 found, the difference is:-2158 at:4,23
+the value at that point is: 6210
+1
+Feature 4 found, the difference is:-6409 at:4,23
+the value at that point is: 20307
+1
+Feature 4 found, the difference is:-4572 at:4,23
+the value at that point is: 14018
+1
+Feature 4 found, the difference is:-826 at:4,23
+the value at that point is: 4750
+1
+Feature 4 found, the difference is:-2745 at:4,23
+the value at that point is: 9219
+1
+Feature 4 found, the difference is:-1558 at:4,23
+the value at that point is: 11940
+1
+Feature 4 found, the difference is:-2347 at:4,23
+the value at that point is: 8409
+1
+Feature 4 found, the difference is:-2754 at:4,23
+the value at that point is: 9082
+1
+Feature 4 found, the difference is:-3742 at:4,23
+the value at that point is: 14808
+1
+Feature 4 found, the difference is:-1461 at:4,23
+the value at that point is: 2459
+1
+Feature 4 found, the difference is:-617 at:4,23
+the value at that point is: 10343
+1
+Feature 4 found, the difference is:-4949 at:4,23
+the value at that point is: 14243
+1
+Feature 4 found, the difference is:-5401 at:4,23
+the value at that point is: 18399
+1
+Feature 4 found, the difference is:-792 at:4,23
+the value at that point is: 4636
+1
+Feature 4 found, the difference is:-4968 at:4,23
+the value at that point is: 19086
+1
+Feature 4 found, the difference is:-2522 at:4,23
+the value at that point is: 10506
+1
+Feature 4 found, the difference is:-358 at:4,23
+the value at that point is: 6488
+1
+Feature 4 found, the difference is:-3054 at:4,23
+the value at that point is: 8630
+1
+Feature 4 found, the difference is:179 at:4,23
+the value at that point is: 10875
+1
+Feature 4 found, the difference is:-2538 at:4,23
+the value at that point is: 12908
+1
+Feature 4 found, the difference is:-2051 at:4,23
+the value at that point is: 6263
+1
+Feature 4 found, the difference is:-5294 at:4,23
+the value at that point is: 14770
+1
+Feature 4 found, the difference is:1256 at:4,23
+the value at that point is: 5450
+1
+Feature 4 found, the difference is:-2657 at:4,23
+the value at that point is: 11533
+1
+Feature 4 found, the difference is:-309 at:4,23
+the value at that point is: 8797
+1
+Feature 4 found, the difference is:-627 at:4,23
+the value at that point is: 13299
+1
+Feature 4 found, the difference is:1180 at:4,23
+the value at that point is: 8968
+1
+Feature 4 found, the difference is:-5373 at:4,23
+the value at that point is: 15709
+1
+Feature 4 found, the difference is:-4106 at:4,23
+the value at that point is: 13900
+1
+Feature 4 found, the difference is:-4663 at:4,23
+the value at that point is: 14655
+1
+Feature 4 found, the difference is:234 at:4,23
+the value at that point is: 9156
+1
+Feature 4 found, the difference is:-5636 at:4,23
+the value at that point is: 18108
+1
+Feature 4 found, the difference is:-3676 at:4,23
+the value at that point is: 16536
+1
+Feature 4 found, the difference is:-5785 at:4,23
+the value at that point is: 9409
+1
+Feature 4 found, the difference is:-2793 at:4,23
+the value at that point is: 12599
+1
+Feature 4 found, the difference is:-1840 at:4,23
+the value at that point is: 10328
+1
+Feature 4 found, the difference is:-6215 at:4,23
+the value at that point is: 16517
+1
+Feature 4 found, the difference is:-5884 at:4,23
+the value at that point is: 14232
+1
+Feature 4 found, the difference is:-1515 at:4,23
+the value at that point is: 8993
+1
+Feature 4 found, the difference is:-811 at:4,23
+the value at that point is: 4415
+1
+Feature 4 found, the difference is:-1000 at:4,23
+the value at that point is: 7832
+1
+Feature 4 found, the difference is:-3221 at:4,23
+the value at that point is: 11677
+1
+Feature 4 found, the difference is:-3433 at:4,23
+the value at that point is: 11047
+1
+Feature 4 found, the difference is:-1088 at:4,23
+the value at that point is: 8156
+1
+Feature 4 found, the difference is:743 at:4,23
+the value at that point is: 10881
+1
+Feature 4 found, the difference is:-1652 at:4,23
+the value at that point is: 10208
+1
+Feature 4 found, the difference is:-6309 at:4,23
+the value at that point is: 17651
+1
+Feature 4 found, the difference is:-2163 at:4,23
+the value at that point is: 13297
+1
+Feature 4 found, the difference is:-4298 at:4,23
+the value at that point is: 15782
+1
+Feature 4 found, the difference is:-5293 at:4,23
+the value at that point is: 17977
+1
+Feature 4 found, the difference is:-4659 at:4,23
+the value at that point is: 17709
+1
+Feature 4 found, the difference is:-2575 at:4,23
+the value at that point is: 12799
+1
+Feature 4 found, the difference is:-2520 at:4,23
+the value at that point is: 13410
+1
+Feature 4 found, the difference is:-1728 at:4,23
+the value at that point is: 10392
+1
+Feature 4 found, the difference is:2061 at:4,23
+the value at that point is: 11181
+1
+Feature 4 found, the difference is:30 at:4,23
+the value at that point is: 6120
+1
+Feature 4 found, the difference is:2692 at:4,23
+the value at that point is: 10048
+1
+Feature 4 found, the difference is:-877 at:4,23
+the value at that point is: 9405
+1
+Feature 4 found, the difference is:-5595 at:4,23
+the value at that point is: 14485
+1
+Feature 4 found, the difference is:-782 at:4,23
+the value at that point is: 7926
+1
+Feature 4 found, the difference is:-4134 at:4,23
+the value at that point is: 16116
+1
+Feature 4 found, the difference is:-2248 at:4,23
+the value at that point is: 4656
+1
+Feature 4 found, the difference is:-194 at:4,23
+the value at that point is: 7684
+1
+Feature 4 found, the difference is:-538 at:4,23
+the value at that point is: 8582
+1
+Feature 4 found, the difference is:-925 at:4,23
+the value at that point is: 6233
+1
+Feature 4 found, the difference is:356 at:4,23
+the value at that point is: 8562
+1
+Feature 4 found, the difference is:740 at:4,23
+the value at that point is: 7698
+1
+Feature 4 found, the difference is:-153 at:4,23
+the value at that point is: 8461
+1
+Feature 4 found, the difference is:-3530 at:4,23
+the value at that point is: 11432
+1
+Feature 4 found, the difference is:-3210 at:4,23
+the value at that point is: 11452
+1
+Feature 4 found, the difference is:-469 at:4,23
+the value at that point is: 8181
+1
+Feature 4 found, the difference is:-909 at:4,23
+the value at that point is: 7283
+1
+Feature 4 found, the difference is:-1083 at:4,23
+the value at that point is: 7641
+1
+Feature 4 found, the difference is:-1351 at:4,23
+the value at that point is: 8873
+1
+Feature 4 found, the difference is:-6327 at:4,23
+the value at that point is: 17303
+1
+Feature 4 found, the difference is:-5982 at:4,23
+the value at that point is: 17404
+1
+Feature 4 found, the difference is:-5152 at:4,23
+the value at that point is: 16722
+1
+Feature 4 found, the difference is:-3054 at:4,23
+the value at that point is: 12918
+1
+Feature 4 found, the difference is:-6023 at:4,23
+the value at that point is: 16083
+1
+Feature 4 found, the difference is:-6184 at:4,23
+the value at that point is: 18692
+1
+Feature 4 found, the difference is:-2706 at:4,23
+the value at that point is: 8592
+1
+Feature 4 found, the difference is:-2239 at:4,23
+the value at that point is: 5527
+1
+Feature 4 found, the difference is:-4422 at:4,23
+the value at that point is: 17694
+1
+Feature 4 found, the difference is:-1310 at:4,23
+the value at that point is: 6190
+1
+Feature 4 found, the difference is:-3060 at:4,23
+the value at that point is: 8168
+1
+Feature 4 found, the difference is:-4456 at:4,23
+the value at that point is: 13416
+1
+Feature 4 found, the difference is:-1402 at:4,23
+the value at that point is: 10430
+1
+Feature 4 found, the difference is:216 at:4,23
+the value at that point is: 1702
+1
+Feature 4 found, the difference is:2003 at:4,23
+the value at that point is: 6175
+1
+Feature 4 found, the difference is:-546 at:4,23
+the value at that point is: 3504
+1
+Feature 4 found, the difference is:-1743 at:4,23
+the value at that point is: 8717
+1
+Feature 4 found, the difference is:509 at:4,23
+the value at that point is: 6771
+1
+Feature 4 found, the difference is:-4291 at:4,23
+the value at that point is: 11757
+1
+Feature 4 found, the difference is:-2696 at:4,23
+the value at that point is: 8942
+1
+Feature 4 found, the difference is:927 at:4,23
+the value at that point is: 8395
+1
+Feature 4 found, the difference is:-5978 at:4,23
+the value at that point is: 15742
+1
+Feature 4 found, the difference is:-1093 at:4,23
+the value at that point is: 10845
+1
+Feature 4 found, the difference is:-1018 at:4,23
+the value at that point is: 9208
+1
+Feature 4 found, the difference is:-2449 at:4,23
+the value at that point is: 11879
+1
+Feature 4 found, the difference is:-5285 at:4,23
+the value at that point is: 20077
+1
+Feature 4 found, the difference is:-3460 at:4,23
+the value at that point is: 10742
+1
+Feature 4 found, the difference is:-4060 at:4,23
+the value at that point is: 10614
+1
+Feature 4 found, the difference is:-892 at:4,23
+the value at that point is: 12692
+1
+Feature 4 found, the difference is:-1394 at:4,23
+the value at that point is: 8646
+1
+Feature 4 found, the difference is:-3358 at:4,23
+the value at that point is: 10936
+1
+Feature 4 found, the difference is:-2222 at:4,23
+the value at that point is: 5146
+1
+Feature 4 found, the difference is:46 at:4,23
+the value at that point is: 13438
+1
+Feature 4 found, the difference is:-2310 at:4,23
+the value at that point is: 14434
+1
+Feature 4 found, the difference is:320 at:4,23
+the value at that point is: 14160
+1
+Feature 4 found, the difference is:-1072 at:4,23
+the value at that point is: 7328
+1
+Feature 4 found, the difference is:-1591 at:4,23
+the value at that point is: 7451
+1
+Feature 4 found, the difference is:-4942 at:4,23
+the value at that point is: 21576
+1
+Feature 4 found, the difference is:-3113 at:4,23
+the value at that point is: 10693
+1
+Feature 4 found, the difference is:-2108 at:4,23
+the value at that point is: 10570
+1
+Feature 4 found, the difference is:-4348 at:4,23
+the value at that point is: 17096
+1
+Feature 4 found, the difference is:-1356 at:4,23
+the value at that point is: 8282
+1
+Feature 4 found, the difference is:-649 at:4,23
+the value at that point is: 8615
+1
+Feature 4 found, the difference is:-1902 at:4,23
+the value at that point is: 7648
+1
+Feature 4 found, the difference is:-1672 at:4,23
+the value at that point is: 7962
+1
+Feature 4 found, the difference is:-4318 at:4,23
+the value at that point is: 12976
+1
+Feature 4 found, the difference is:744 at:4,23
+the value at that point is: 14512
+1
+Feature 4 found, the difference is:-4901 at:4,23
+the value at that point is: 11203
+1
+Feature 4 found, the difference is:-3341 at:4,23
+the value at that point is: 8091
+1
+Feature 4 found, the difference is:-1527 at:4,23
+the value at that point is: 2283
+1
+Feature 4 found, the difference is:-438 at:4,23
+the value at that point is: 5246
+1
+Feature 4 found, the difference is:-2519 at:4,23
+the value at that point is: 8097
+1
+Feature 4 found, the difference is:-2014 at:4,23
+the value at that point is: 9568
+1
+Feature 4 found, the difference is:-3968 at:4,23
+the value at that point is: 13456
+1
+Feature 4 found, the difference is:790 at:4,23
+the value at that point is: 14706
+1
+Feature 4 found, the difference is:-6549 at:4,23
+the value at that point is: 24369
+1
+Feature 4 found, the difference is:-3968 at:4,23
+the value at that point is: 14430
+1
+Feature 4 found, the difference is:1473 at:4,23
+the value at that point is: 6707
+1
+Feature 4 found, the difference is:634 at:4,23
+the value at that point is: 6548
+1
+Feature 4 found, the difference is:-6133 at:6,23
+the value at that point is: 30696
+1
+Feature 4 found, the difference is:-1618 at:4,23
+the value at that point is: 5652
+1
+Feature 4 found, the difference is:-2713 at:4,23
+the value at that point is: 17327
+1
+Feature 4 found, the difference is:-3104 at:4,23
+the value at that point is: 9682
+1
+Feature 4 found, the difference is:-2741 at:4,23
+the value at that point is: 8591
+1
+Feature 4 found, the difference is:-4138 at:4,23
+the value at that point is: 13804
+1
+Feature 4 found, the difference is:-1742 at:4,23
+the value at that point is: 10614
+1
+Feature 4 found, the difference is:-3666 at:4,23
+the value at that point is: 13922
+1
+Feature 4 found, the difference is:-2672 at:4,23
+the value at that point is: 12702
+1
+Feature 4 found, the difference is:494 at:4,23
+the value at that point is: 7270
+1
+Feature 4 found, the difference is:-999 at:4,23
+the value at that point is: 6947
+1
+Feature 4 found, the difference is:-6417 at:6,23
+the value at that point is: 28894
+1
+Feature 4 found, the difference is:-1918 at:4,23
+the value at that point is: 8778
+1
+Feature 4 found, the difference is:-1984 at:4,23
+the value at that point is: 8138
+1
+Feature 4 found, the difference is:-2626 at:4,23
+the value at that point is: 10956
+1
+Feature 4 found, the difference is:-2840 at:4,23
+the value at that point is: 12428
+1
+Feature 4 found, the difference is:-1219 at:4,23
+the value at that point is: 6095
+1
+Feature 4 found, the difference is:-4617 at:4,23
+the value at that point is: 14615
+1
+Feature 4 found, the difference is:-2614 at:4,23
+the value at that point is: 13502
+1
+Feature 4 found, the difference is:-5170 at:4,23
+the value at that point is: 19270
+1
+Feature 4 found, the difference is:-3974 at:4,23
+the value at that point is: 17748
+1
+Feature 4 found, the difference is:-1763 at:4,23
+the value at that point is: 13765
+1
+Feature 4 found, the difference is:-6053 at:5,23
+the value at that point is: 23438
+1
+Feature 4 found, the difference is:-2308 at:4,23
+the value at that point is: 10396
+1
+Feature 4 found, the difference is:-5047 at:4,23
+the value at that point is: 18563
+1
+Feature 4 found, the difference is:-79 at:4,23
+the value at that point is: 10939
+1
+Feature 4 found, the difference is:-363 at:4,23
+the value at that point is: 16807
+1
+Feature 4 found, the difference is:-3134 at:4,23
+the value at that point is: 13376
+1
+Feature 4 found, the difference is:-1774 at:4,23
+the value at that point is: 5526
+1
+Feature 4 found, the difference is:-4933 at:4,23
+the value at that point is: 11695
+1
+Feature 4 found, the difference is:-3645 at:4,23
+the value at that point is: 10045
+1
+Feature 4 found, the difference is:-1778 at:4,23
+the value at that point is: 6818
+1
+Feature 4 found, the difference is:-1645 at:4,23
+the value at that point is: 7649
+1
+Feature 4 found, the difference is:-1516 at:4,23
+the value at that point is: 6546
+1
+Feature 4 found, the difference is:-3629 at:4,23
+the value at that point is: 17521
+1
+Feature 4 found, the difference is:-3663 at:4,23
+the value at that point is: 17295
+1
+Feature 4 found, the difference is:-144 at:4,23
+the value at that point is: 16490
+1
+Feature 4 found, the difference is:963 at:4,23
+the value at that point is: 10007
+1
+Feature 4 found, the difference is:-6488 at:4,23
+the value at that point is: 20580
+1
+Feature 4 found, the difference is:-5556 at:4,23
+the value at that point is: 15392
+1
+Feature 4 found, the difference is:-3471 at:4,23
+the value at that point is: 11923
+1
+Feature 4 found, the difference is:-2975 at:4,23
+the value at that point is: 17245
+1
+Feature 4 found, the difference is:-3429 at:4,23
+the value at that point is: 14091
+1
+Feature 4 found, the difference is:594 at:4,23
+the value at that point is: 9442
+1
+Feature 4 found, the difference is:-1128 at:4,23
+the value at that point is: 3120
+1
+Feature 4 found, the difference is:-1410 at:4,23
+the value at that point is: 6696
+1
+Feature 4 found, the difference is:-5049 at:4,23
+the value at that point is: 18749
+1
+Feature 4 found, the difference is:-4199 at:4,23
+the value at that point is: 15419
+1
+Feature 4 found, the difference is:-4348 at:4,23
+the value at that point is: 15850
+1
+Feature 4 found, the difference is:-4628 at:4,23
+the value at that point is: 17904
+1
+Feature 4 found, the difference is:-1653 at:4,23
+the value at that point is: 13059
+1
+Feature 4 found, the difference is:-3124 at:4,23
+the value at that point is: 13208
+1
+Feature 4 found, the difference is:-4019 at:4,23
+the value at that point is: 11847
+1
+Feature 4 found, the difference is:-3929 at:4,23
+the value at that point is: 12301
+1
+Feature 4 found, the difference is:-2947 at:4,23
+the value at that point is: 17737
+1
+Feature 4 found, the difference is:423 at:4,23
+the value at that point is: 5969
+1
+Feature 4 found, the difference is:-1342 at:4,23
+the value at that point is: 5142
+1
+Feature 4 found, the difference is:-3830 at:4,23
+the value at that point is: 16158
+1
+Feature 4 found, the difference is:-6006 at:4,23
+the value at that point is: 24024
+1
+Feature 4 found, the difference is:-6448 at:14,23
+the value at that point is: 62964
+1
+Feature 4 found, the difference is:-455 at:4,23
+the value at that point is: 1807
+1
+Feature 4 found, the difference is:-267 at:4,23
+the value at that point is: 1599
+1
+Feature 4 found, the difference is:651 at:4,23
+the value at that point is: 6327
+1
+Feature 4 found, the difference is:-6577 at:4,23
+the value at that point is: 19755
+1
+Feature 4 found, the difference is:-3496 at:4,23
+the value at that point is: 10678
+1
+Feature 4 found, the difference is:-4231 at:4,23
+the value at that point is: 14489
+1
+Feature 4 found, the difference is:-2482 at:4,23
+the value at that point is: 7680
+1
+Feature 4 found, the difference is:-2808 at:4,23
+the value at that point is: 9718
+1
+Feature 4 found, the difference is:-5733 at:4,23
+the value at that point is: 14215
+1
+Feature 4 found, the difference is:-2875 at:4,23
+the value at that point is: 10935
+1
+Feature 4 found, the difference is:-1879 at:4,23
+the value at that point is: 6391
+1
+Feature 4 found, the difference is:-5421 at:4,23
+the value at that point is: 16437
+1
+Feature 4 found, the difference is:-6191 at:17,23
+the value at that point is: 82001
+1
+Feature 4 found, the difference is:-5226 at:15,23
+the value at that point is: 75587
+1
+Feature 4 found, the difference is:-2366 at:4,23
+the value at that point is: 8674
+1
+Feature 4 found, the difference is:-1705 at:4,23
+the value at that point is: 9479
+1
+Feature 4 found, the difference is:-2829 at:4,23
+the value at that point is: 9347
+1
+Feature 4 found, the difference is:-5044 at:4,23
+the value at that point is: 15732
+1
+Feature 4 found, the difference is:-3262 at:4,23
+the value at that point is: 9738
+1
+Feature 4 found, the difference is:-823 at:4,23
+the value at that point is: 3563
+1
+Feature 4 found, the difference is:-2429 at:4,23
+the value at that point is: 12749
+1
+Feature 4 found, the difference is:-3089 at:4,23
+the value at that point is: 14101
+1
+Feature 4 found, the difference is:-1015 at:4,23
+the value at that point is: 5851
+1
+Feature 4 found, the difference is:-596 at:4,23
+the value at that point is: 5860
+1
+Feature 4 found, the difference is:-871 at:4,23
+the value at that point is: 9057
+1
+Feature 4 found, the difference is:-889 at:4,23
+the value at that point is: 4293
+1
+Feature 4 found, the difference is:-1515 at:4,23
+the value at that point is: 6919
+1
+Feature 4 found, the difference is:-6471 at:17,23
+the value at that point is: 78111
+1
+Feature 4 found, the difference is:-1047 at:4,23
+the value at that point is: 3243
+1
+Feature 4 found, the difference is:-944 at:4,23
+the value at that point is: 10374
+1
+Feature 4 found, the difference is:-1439 at:4,23
+the value at that point is: 5503
+1
+Feature 4 found, the difference is:-2175 at:4,23
+the value at that point is: 6545
+1
+Feature 4 found, the difference is:-3091 at:4,23
+the value at that point is: 14909
+1
+Feature 4 found, the difference is:-4141 at:4,23
+the value at that point is: 16607
+1
+Feature 4 found, the difference is:-793 at:4,23
+the value at that point is: 5493
+1
+Feature 4 found, the difference is:-4671 at:4,23
+the value at that point is: 14369
+1
+Feature 4 found, the difference is:-6037 at:4,23
+the value at that point is: 18817
+1
+Feature 4 found, the difference is:-5063 at:4,23
+the value at that point is: 17381
+1
+Feature 4 found, the difference is:-5877 at:4,23
+the value at that point is: 18719
+1
+Feature 4 found, the difference is:-5876 at:6,23
+the value at that point is: 28913
+1
+Feature 4 found, the difference is:1558 at:4,23
+the value at that point is: 4880
+1
+Feature 4 found, the difference is:-5841 at:4,23
+the value at that point is: 19645
+1
+Feature 4 found, the difference is:-6145 at:5,23
+the value at that point is: 22069
+1
+Feature 4 found, the difference is:-4415 at:4,23
+the value at that point is: 16475
+1
+Feature 4 found, the difference is:-6331 at:15,23
+the value at that point is: 70610
+1
+Feature 4 found, the difference is:-3505 at:4,23
+the value at that point is: 13597
+1
+0
+Feature 4 found, the difference is:-6534 at:12,23
+the value at that point is: 59148
+1
+Feature 4 found, the difference is:-2418 at:4,23
+the value at that point is: 14452
+1
+Feature 4 found, the difference is:-2630 at:4,23
+the value at that point is: 12828
+1
+Feature 4 found, the difference is:-4467 at:4,23
+the value at that point is: 16493
+1
+Feature 4 found, the difference is:-966 at:4,23
+the value at that point is: 4286
+1
+Feature 4 found, the difference is:-2626 at:4,23
+the value at that point is: 14006
+1
+Feature 4 found, the difference is:-1987 at:4,23
+the value at that point is: 8285
+1
+Feature 4 found, the difference is:-3512 at:4,23
+the value at that point is: 12324
+1
+Feature 4 found, the difference is:-4397 at:4,23
+the value at that point is: 12703
+1
+Feature 4 found, the difference is:-123 at:4,23
+the value at that point is: 12523
+1
+Feature 4 found, the difference is:-5344 at:4,23
+the value at that point is: 7982
+1
+Feature 4 found, the difference is:-6086 at:6,23
+the value at that point is: 26848
+1
+Feature 4 found, the difference is:-3647 at:4,23
+the value at that point is: 14283
+1
+Feature 4 found, the difference is:-3604 at:4,23
+the value at that point is: 13492
+1
+Feature 4 found, the difference is:-3740 at:4,23
+the value at that point is: 12100
+1
+Feature 4 found, the difference is:-5433 at:4,23
+the value at that point is: 17733
+1
+Feature 4 found, the difference is:-541 at:4,23
+the value at that point is: 10307
+1
+Feature 4 found, the difference is:-1775 at:4,23
+the value at that point is: 11947
+1
+Feature 4 found, the difference is:-1252 at:4,23
+the value at that point is: 3670
+1
+Feature 4 found, the difference is:-1533 at:4,23
+the value at that point is: 3409
+1
+Feature 4 found, the difference is:-5054 at:4,23
+the value at that point is: 15848
+1
+Feature 4 found, the difference is:-2048 at:4,23
+the value at that point is: 3870
+1
+Feature 4 found, the difference is:-5260 at:4,23
+the value at that point is: 21302
+1
+Feature 4 found, the difference is:-2213 at:4,23
+the value at that point is: 17291
+1
+Feature 4 found, the difference is:-6182 at:4,23
+the value at that point is: 20748
+1
+Feature 4 found, the difference is:-2399 at:4,23
+the value at that point is: 10657
+1
+Feature 4 found, the difference is:-2712 at:4,23
+the value at that point is: 9320
+1
+Feature 4 found, the difference is:-5904 at:4,23
+the value at that point is: 21226
+1
+Feature 4 found, the difference is:-1405 at:4,23
+the value at that point is: 5015
+1
+Feature 4 found, the difference is:-82 at:4,23
+the value at that point is: 14766
+1
+Feature 4 found, the difference is:-844 at:4,23
+the value at that point is: 3276
+1
+Feature 4 found, the difference is:-6511 at:6,23
+the value at that point is: 32219
+1
+Feature 4 found, the difference is:-2662 at:4,23
+the value at that point is: 13026
+1
+Feature 4 found, the difference is:-1033 at:4,23
+the value at that point is: 5701
+1
+Feature 4 found, the difference is:-798 at:4,23
+the value at that point is: 2430
+1
+Feature 4 found, the difference is:-1160 at:4,23
+the value at that point is: 4672
+1
+Feature 4 found, the difference is:-2531 at:4,23
+the value at that point is: 9397
+1
+Feature 4 found, the difference is:-6555 at:20,23
+the value at that point is: 85745
+1
+Feature 4 found, the difference is:-1265 at:4,23
+the value at that point is: 9395
+1
+Feature 4 found, the difference is:-2984 at:4,23
+the value at that point is: 8672
+1
+Feature 4 found, the difference is:-1906 at:4,23
+the value at that point is: 5938
+1
+Feature 4 found, the difference is:-3683 at:4,23
+the value at that point is: 19983
+1
+Feature 4 found, the difference is:-3587 at:4,23
+the value at that point is: 14795
+1
+Feature 4 found, the difference is:-1695 at:4,23
+the value at that point is: 7687
+1
+Feature 4 found, the difference is:-5349 at:4,23
+the value at that point is: 19143
+1
+Feature 4 found, the difference is:-6142 at:19,23
+the value at that point is: 83763
+1
+Feature 4 found, the difference is:-1148 at:4,23
+the value at that point is: 14652
+1
+Feature 4 found, the difference is:-6260 at:5,23
+the value at that point is: 17118
+1
+Feature 4 found, the difference is:-2337 at:4,23
+the value at that point is: 8491
+1
+Feature 4 found, the difference is:-961 at:4,23
+the value at that point is: 3291
+1
+Feature 4 found, the difference is:-2683 at:4,23
+the value at that point is: 7133
+1
+Feature 4 found, the difference is:2324 at:4,23
+the value at that point is: 13866
+1
+Feature 4 found, the difference is:-4705 at:4,23
+the value at that point is: 22359
+1
+Feature 4 found, the difference is:-5498 at:7,23
+the value at that point is: 30360
+1
+Feature 4 found, the difference is:-6040 at:4,23
+the value at that point is: 20906
+1
+Feature 4 found, the difference is:-4109 at:4,23
+the value at that point is: 15153
+1
+Feature 4 found, the difference is:-4142 at:4,23
+the value at that point is: 14886
+1
+Feature 4 found, the difference is:-879 at:4,23
+the value at that point is: 9471
+1
+Feature 4 found, the difference is:-3088 at:4,23
+the value at that point is: 18658
+1
+Feature 4 found, the difference is:-2778 at:4,23
+the value at that point is: 9138
+1
+Feature 4 found, the difference is:-2703 at:4,23
+the value at that point is: 19291
+1
+Feature 4 found, the difference is:-864 at:4,23
+the value at that point is: 3068
+1
+Feature 4 found, the difference is:-5847 at:4,23
+the value at that point is: 11093
+1
+Feature 4 found, the difference is:-5502 at:4,23
+the value at that point is: 18764
+1
+Feature 4 found, the difference is:-1009 at:4,23
+the value at that point is: 8493
+1
+Feature 4 found, the difference is:-1464 at:4,23
+the value at that point is: 8288
+1
+Feature 4 found, the difference is:-963 at:4,23
+the value at that point is: 8061
+1
+Feature 4 found, the difference is:-2762 at:4,23
+the value at that point is: 16824
+1
+Feature 4 found, the difference is:-1294 at:4,23
+the value at that point is: 4612
+1
+Feature 4 found, the difference is:-2151 at:4,23
+the value at that point is: 5447
+1
+Feature 4 found, the difference is:-2774 at:4,23
+the value at that point is: 6960
+1
+Feature 4 found, the difference is:-5881 at:6,23
+the value at that point is: 17209
+1
+Feature 4 found, the difference is:-5017 at:4,23
+the value at that point is: 15375
+1
+Feature 4 found, the difference is:-3140 at:4,23
+the value at that point is: 13154
+1
+Feature 4 found, the difference is:-3003 at:4,23
+the value at that point is: 13435
+1
+Feature 4 found, the difference is:-6162 at:4,23
+the value at that point is: 23786
+1
+Feature 4 found, the difference is:-2446 at:4,23
+the value at that point is: 8228
+1
+Feature 4 found, the difference is:-6148 at:4,23
+the value at that point is: 19764
+1
+Feature 4 found, the difference is:-2594 at:4,23
+the value at that point is: 21098
+1
+Feature 4 found, the difference is:-2723 at:4,23
+the value at that point is: 17045
+1
+0
+Feature 4 found, the difference is:-1916 at:4,23
+the value at that point is: 7018
+1
+Feature 4 found, the difference is:-3400 at:4,23
+the value at that point is: 9612
+1
+Feature 4 found, the difference is:-793 at:4,23
+the value at that point is: 9087
+1
+Feature 4 found, the difference is:-5968 at:4,23
+the value at that point is: 17038
+1
+Feature 4 found, the difference is:-1295 at:4,23
+the value at that point is: 15125
+1
+Feature 4 found, the difference is:-1316 at:4,23
+the value at that point is: 15138
+1
+Feature 4 found, the difference is:-4894 at:4,23
+the value at that point is: 13354
+1
+Feature 4 found, the difference is:-5542 at:4,23
+the value at that point is: 22376
+1
+Feature 4 found, the difference is:-3135 at:4,23
+the value at that point is: 12547
+1
+Feature 4 found, the difference is:-3208 at:4,23
+the value at that point is: 17800
+1
+Feature 4 found, the difference is:-2052 at:4,23
+the value at that point is: 9052
+1
+Feature 4 found, the difference is:-2846 at:4,23
+the value at that point is: 17128
+1
+Feature 4 found, the difference is:-4632 at:4,23
+the value at that point is: 12606
+1
+Feature 4 found, the difference is:-5088 at:4,23
+the value at that point is: 21938
+1
+Feature 4 found, the difference is:-1165 at:4,23
+the value at that point is: 3241
+1
+Feature 4 found, the difference is:-5843 at:4,23
+the value at that point is: 18311
+1
+Feature 4 found, the difference is:-4747 at:4,23
+the value at that point is: 17273
+1
+Feature 4 found, the difference is:-5251 at:4,23
+the value at that point is: 17791
+1
+Feature 4 found, the difference is:-4581 at:4,23
+the value at that point is: 17201
+1
+Feature 4 found, the difference is:-1462 at:4,23
+the value at that point is: 14132
+1
+Feature 4 found, the difference is:-3767 at:4,23
+the value at that point is: 13109
+1
+Feature 4 found, the difference is:-4953 at:4,23
+the value at that point is: 14807
+1
+Feature 4 found, the difference is:-3475 at:4,23
+the value at that point is: 14655
+1
+Feature 4 found, the difference is:-2173 at:4,23
+the value at that point is: 11705
+1
+Feature 4 found, the difference is:-4945 at:4,23
+the value at that point is: 14597
+1
+Feature 4 found, the difference is:-6310 at:4,23
+the value at that point is: 17464
+1
+Feature 4 found, the difference is:-408 at:4,23
+the value at that point is: 15472
+1
+Feature 4 found, the difference is:-3949 at:4,23
+the value at that point is: 15197
+1
+Feature 4 found, the difference is:-4420 at:4,23
+the value at that point is: 12604
+1
+Feature 4 found, the difference is:-4998 at:4,23
+the value at that point is: 16264
+1
+Feature 4 found, the difference is:1602 at:4,23
+the value at that point is: 16440
+1
+Feature 4 found, the difference is:-5671 at:4,23
+the value at that point is: 15859
+1
+Feature 4 found, the difference is:-3513 at:4,23
+the value at that point is: 18497
+1
+Feature 4 found, the difference is:-5797 at:4,23
+the value at that point is: 14739
+1
+Feature 4 found, the difference is:-5243 at:4,23
+the value at that point is: 19255
+1
+Feature 4 found, the difference is:-3690 at:4,23
+the value at that point is: 13770
+1
+Feature 4 found, the difference is:-2426 at:4,23
+the value at that point is: 18990
+1
+Feature 4 found, the difference is:-2598 at:4,23
+the value at that point is: 17768
+1
+Feature 4 found, the difference is:-3851 at:4,23
+the value at that point is: 12429
+1
+Feature 4 found, the difference is:-6564 at:11,23
+the value at that point is: 42070
+1
+Feature 4 found, the difference is:-6056 at:4,23
+the value at that point is: 19246
+1
+Feature 4 found, the difference is:-4134 at:4,23
+the value at that point is: 16704
+1
+Feature 4 found, the difference is:-6352 at:4,23
+the value at that point is: 18354
+1
+Feature 4 found, the difference is:-6007 at:4,23
+the value at that point is: 18177
+1
+Feature 4 found, the difference is:-6467 at:8,23
+the value at that point is: 33399
+1
+Feature 4 found, the difference is:-1920 at:4,23
+the value at that point is: 6090
+1
+Feature 4 found, the difference is:-4715 at:4,23
+the value at that point is: 16495
+1
+Feature 4 found, the difference is:-4740 at:4,23
+the value at that point is: 15348
+1
+Feature 4 found, the difference is:-3757 at:4,23
+the value at that point is: 14375
+1
+Feature 4 found, the difference is:-5636 at:4,23
+the value at that point is: 13742
+1
+Feature 4 found, the difference is:-6033 at:4,23
+the value at that point is: 17851
+1
+Feature 4 found, the difference is:-4191 at:4,23
+the value at that point is: 12339
+1
+Feature 4 found, the difference is:-2914 at:4,23
+the value at that point is: 12560
+1
+Feature 4 found, the difference is:-2432 at:4,23
+the value at that point is: 12438
+1
+Feature 4 found, the difference is:-5090 at:4,23
+the value at that point is: 13030
+1
+Feature 4 found, the difference is:-1172 at:4,23
+the value at that point is: 13060
+1
+Feature 4 found, the difference is:-975 at:4,23
+the value at that point is: 7355
+1
+Feature 4 found, the difference is:-2699 at:4,23
+the value at that point is: 10849
+1
+Feature 4 found, the difference is:-1300 at:4,23
+the value at that point is: 14402
+1
+Feature 4 found, the difference is:-3353 at:4,23
+the value at that point is: 12303
+1
+Feature 4 found, the difference is:-1987 at:4,23
+the value at that point is: 12023
+1
+Feature 4 found, the difference is:-2583 at:4,23
+the value at that point is: 8349
+1
+Feature 4 found, the difference is:-1078 at:4,23
+the value at that point is: 8740
+1
+Feature 4 found, the difference is:-5286 at:4,23
+the value at that point is: 13796
+1
+Feature 4 found, the difference is:-2414 at:4,23
+the value at that point is: 13284
+1
+Feature 4 found, the difference is:-1535 at:4,23
+the value at that point is: 9997
+1
+Feature 4 found, the difference is:-1607 at:4,23
+the value at that point is: 10913
+1
+Feature 4 found, the difference is:-6018 at:4,23
+the value at that point is: 17240
+1
+Feature 4 found, the difference is:-2768 at:4,23
+the value at that point is: 11096
+1
+Feature 4 found, the difference is:-3751 at:4,23
+the value at that point is: 11149
+1
+Feature 4 found, the difference is:-1725 at:4,23
+the value at that point is: 7949
+1
+Feature 4 found, the difference is:-2007 at:4,23
+the value at that point is: 7327
+1
+Feature 4 found, the difference is:-2615 at:4,23
+the value at that point is: 13835
+1
+Feature 4 found, the difference is:-2542 at:4,23
+the value at that point is: 11270
+1
+Feature 4 found, the difference is:-3264 at:4,23
+the value at that point is: 13430
+1
+Feature 4 found, the difference is:-5746 at:4,23
+the value at that point is: 17412
+1
+Feature 4 found, the difference is:-2111 at:4,23
+the value at that point is: 6533
+1
+Feature 4 found, the difference is:-5278 at:4,23
+the value at that point is: 11428
+1
+Feature 4 found, the difference is:-3887 at:4,23
+the value at that point is: 11535
+1
+Feature 4 found, the difference is:-1582 at:4,23
+the value at that point is: 16086
+1
+Feature 4 found, the difference is:-6439 at:5,23
+the value at that point is: 21081
+1
+Feature 4 found, the difference is:-1440 at:4,23
+the value at that point is: 9632
+1
+Feature 4 found, the difference is:-2574 at:4,23
+the value at that point is: 8698
+1
+0
+Feature 4 found, the difference is:-5868 at:4,23
+the value at that point is: 18928
+1
+Feature 4 found, the difference is:-2383 at:4,23
+the value at that point is: 5685
+1
+Feature 4 found, the difference is:-1681 at:4,23
+the value at that point is: 16945
+1
+Feature 4 found, the difference is:-5766 at:4,23
+the value at that point is: 21114
+1
+Feature 4 found, the difference is:-3185 at:4,23
+the value at that point is: 12719
+1
+Feature 4 found, the difference is:-5898 at:4,23
+the value at that point is: 17532
+1
+Feature 4 found, the difference is:-3019 at:4,23
+the value at that point is: 9133
+1
+Feature 4 found, the difference is:-4832 at:4,23
+the value at that point is: 14828
+1
+Feature 4 found, the difference is:-5153 at:4,23
+the value at that point is: 14763
+1
+Feature 4 found, the difference is:-4428 at:4,23
+the value at that point is: 18412
+1
+Feature 4 found, the difference is:-2948 at:4,23
+the value at that point is: 22446
+1
+Feature 4 found, the difference is:-4250 at:4,23
+the value at that point is: 12960
+1
+Feature 4 found, the difference is:-1098 at:4,23
+the value at that point is: 4120
+1
+Feature 4 found, the difference is:-2041 at:4,23
+the value at that point is: 8523
+1
+Feature 4 found, the difference is:-563 at:4,23
+the value at that point is: 6619
+1
+Feature 4 found, the difference is:-3700 at:4,23
+the value at that point is: 11242
+1
+Feature 4 found, the difference is:-2146 at:4,23
+the value at that point is: 8126
+1
+Feature 4 found, the difference is:-3681 at:4,23
+the value at that point is: 11163
+1
+Feature 4 found, the difference is:-917 at:4,23
+the value at that point is: 5821
+1
+Feature 4 found, the difference is:-1669 at:4,23
+the value at that point is: 6475
+1
+Feature 4 found, the difference is:-702 at:4,23
+the value at that point is: 1632
+1
+Feature 4 found, the difference is:-1214 at:4,23
+the value at that point is: 6226
+1
+Feature 4 found, the difference is:-1462 at:4,23
+the value at that point is: 6144
+1
+Feature 4 found, the difference is:-721 at:4,23
+the value at that point is: 2579
+1
+Feature 4 found, the difference is:-1342 at:4,23
+the value at that point is: 3944
+1
+Feature 4 found, the difference is:-598 at:4,23
+the value at that point is: 6986
+1
+Feature 4 found, the difference is:-2333 at:4,23
+the value at that point is: 7175
+1
+Feature 4 found, the difference is:-4709 at:4,23
+the value at that point is: 15175
+1
+Feature 4 found, the difference is:-3002 at:4,23
+the value at that point is: 10606
+1
+Feature 4 found, the difference is:-1049 at:4,23
+the value at that point is: 4043
+1
+Feature 4 found, the difference is:-907 at:4,23
+the value at that point is: 3817
+1
+Feature 4 found, the difference is:-1206 at:4,23
+the value at that point is: 4112
+1
+Feature 4 found, the difference is:-2756 at:4,23
+the value at that point is: 9950
+1
+Feature 4 found, the difference is:218 at:4,23
+the value at that point is: 6572
+1
+Feature 4 found, the difference is:-2362 at:4,23
+the value at that point is: 7274
+1
+Feature 4 found, the difference is:-2240 at:4,23
+the value at that point is: 7348
+1
+Feature 4 found, the difference is:-2792 at:4,23
+the value at that point is: 8020
+1
+Feature 4 found, the difference is:-3230 at:4,23
+the value at that point is: 8486
+1
+Feature 4 found, the difference is:-696 at:4,23
+the value at that point is: 4768
+1
+Feature 4 found, the difference is:-2360 at:4,23
+the value at that point is: 8354
+1
+Feature 4 found, the difference is:-999 at:4,23
+the value at that point is: 7897
+1
+Feature 4 found, the difference is:-920 at:4,23
+the value at that point is: 3056
+1
+Feature 4 found, the difference is:-901 at:4,23
+the value at that point is: 3147
+1
+Feature 4 found, the difference is:-435 at:4,23
+the value at that point is: 1067
+1
+Feature 4 found, the difference is:-2824 at:4,23
+the value at that point is: 5964
+1
+Feature 4 found, the difference is:268 at:4,23
+the value at that point is: 6706
+1
+Feature 4 found, the difference is:-1827 at:4,23
+the value at that point is: 16871
+1
+Feature 4 found, the difference is:-5139 at:4,23
+the value at that point is: 18269
+1
+Feature 4 found, the difference is:-2851 at:4,23
+the value at that point is: 13447
+1
+Feature 4 found, the difference is:-3359 at:4,23
+the value at that point is: 13699
+1
+Feature 4 found, the difference is:-6274 at:4,23
+the value at that point is: 18056
+1
+Feature 4 found, the difference is:-2354 at:4,23
+the value at that point is: 10360
+1
+Feature 4 found, the difference is:-4166 at:4,23
+the value at that point is: 10114
+1
+Feature 4 found, the difference is:-3305 at:4,23
+the value at that point is: 15179
+1
+Feature 4 found, the difference is:-5059 at:4,23
+the value at that point is: 14049
+1
+Feature 4 found, the difference is:-2909 at:4,23
+the value at that point is: 14315
+1
+Feature 4 found, the difference is:-2398 at:4,23
+the value at that point is: 11192
+1
+Feature 4 found, the difference is:-6179 at:4,23
+the value at that point is: 18609
+1
+Feature 4 found, the difference is:-3866 at:4,23
+the value at that point is: 10840
+1
+Feature 4 found, the difference is:-5792 at:4,23
+the value at that point is: 24896
+1
+Feature 4 found, the difference is:-2781 at:4,23
+the value at that point is: 10379
+1
+Feature 4 found, the difference is:-1865 at:4,23
+the value at that point is: 10703
+1
+Feature 4 found, the difference is:-512 at:4,23
+the value at that point is: 10120
+1
+Feature 4 found, the difference is:-1986 at:4,23
+the value at that point is: 8552
+1
+Feature 4 found, the difference is:-1780 at:4,23
+the value at that point is: 9000
+1
+Feature 4 found, the difference is:-2891 at:4,23
+the value at that point is: 7119
+1
+Feature 4 found, the difference is:-3256 at:4,23
+the value at that point is: 9060
+1
+Feature 4 found, the difference is:-3677 at:4,23
+the value at that point is: 16239
+1
+Feature 4 found, the difference is:-160 at:4,23
+the value at that point is: 5332
+1
+Feature 4 found, the difference is:-3939 at:4,23
+the value at that point is: 14383
+1
+Feature 4 found, the difference is:-3653 at:4,23
+the value at that point is: 10883
+1
+Feature 4 found, the difference is:-2945 at:4,23
+the value at that point is: 11273
+1
+Feature 4 found, the difference is:-4637 at:4,23
+the value at that point is: 14877
+1
+Feature 4 found, the difference is:-1296 at:4,23
+the value at that point is: 6132
+1
+Feature 4 found, the difference is:-2768 at:4,23
+the value at that point is: 11518
+1
+Feature 4 found, the difference is:-176 at:4,23
+the value at that point is: 12592
+1
+Feature 4 found, the difference is:-3015 at:4,23
+the value at that point is: 10961
+1
+Feature 4 found, the difference is:-3400 at:4,23
+the value at that point is: 12394
+1
+Feature 4 found, the difference is:-4080 at:4,23
+the value at that point is: 13156
+1
+Feature 4 found, the difference is:-1770 at:4,23
+the value at that point is: 9304
+1
+Feature 4 found, the difference is:-2485 at:4,23
+the value at that point is: 13903
+1
+Feature 4 found, the difference is:-723 at:4,23
+the value at that point is: 1933
+1
+Feature 4 found, the difference is:-3944 at:4,23
+the value at that point is: 10760
+1
+Feature 4 found, the difference is:-2258 at:4,23
+the value at that point is: 8712
+1
+Feature 4 found, the difference is:-93 at:4,23
+the value at that point is: 1117
+1
+Feature 4 found, the difference is:-957 at:4,23
+the value at that point is: 3765
+1
+Feature 4 found, the difference is:-5582 at:4,23
+the value at that point is: 20530
+1
+Feature 4 found, the difference is:-2740 at:4,23
+the value at that point is: 8988
+1
+Feature 4 found, the difference is:-1007 at:4,23
+the value at that point is: 3537
+1
+Feature 4 found, the difference is:-317 at:4,23
+the value at that point is: 3411
+1
+Feature 4 found, the difference is:-935 at:4,23
+the value at that point is: 3079
+1
+Feature 4 found, the difference is:-5893 at:4,23
+the value at that point is: 24499
+1
+Feature 4 found, the difference is:-6074 at:4,23
+the value at that point is: 17842
+1
+Feature 4 found, the difference is:-1426 at:4,23
+the value at that point is: 4320
+1
+Feature 4 found, the difference is:-3240 at:4,23
+the value at that point is: 8576
+1
+Feature 4 found, the difference is:-457 at:4,23
+the value at that point is: 3319
+1
+Feature 4 found, the difference is:10 at:4,23
+the value at that point is: 5900
+1
+Feature 4 found, the difference is:-888 at:4,23
+the value at that point is: 1764
+1
+Feature 4 found, the difference is:-658 at:4,23
+the value at that point is: 3392
+1
+Feature 4 found, the difference is:-3811 at:4,23
+the value at that point is: 16449
+1
+Feature 4 found, the difference is:-3149 at:4,23
+the value at that point is: 6721
+1
+Feature 4 found, the difference is:675 at:4,23
+the value at that point is: 4697
+1
+Feature 4 found, the difference is:-1792 at:4,23
+the value at that point is: 4754
+1
+Feature 4 found, the difference is:-1836 at:4,23
+the value at that point is: 4280
+1
+Feature 4 found, the difference is:-1865 at:4,23
+the value at that point is: 10867
+1
+Feature 4 found, the difference is:-3935 at:4,23
+the value at that point is: 11227
+1
+Feature 4 found, the difference is:-4751 at:4,23
+the value at that point is: 14271
+1
+Feature 4 found, the difference is:-6466 at:9,23
+the value at that point is: 42899
+1
+Feature 4 found, the difference is:-5369 at:4,23
+the value at that point is: 17219
+1
+Feature 4 found, the difference is:-6236 at:9,23
+the value at that point is: 36844
+1
+Feature 4 found, the difference is:364 at:4,23
+the value at that point is: 6470
+1
+Feature 4 found, the difference is:-6152 at:4,23
+the value at that point is: 20048
+1
+Feature 4 found, the difference is:-1232 at:4,23
+the value at that point is: 3120
+1
+Feature 4 found, the difference is:-872 at:4,23
+the value at that point is: 5198
+1
+Feature 4 found, the difference is:-3232 at:4,23
+the value at that point is: 8252
+1
+Feature 4 found, the difference is:942 at:4,23
+the value at that point is: 10470
+1
+Feature 4 found, the difference is:-4729 at:4,23
+the value at that point is: 15333
+1
+Feature 4 found, the difference is:-2195 at:4,23
+the value at that point is: 7167
+1
+Feature 4 found, the difference is:-3434 at:4,23
+the value at that point is: 10954
+1
+Feature 4 found, the difference is:9 at:4,23
+the value at that point is: 8675
+1
+Feature 4 found, the difference is:-1296 at:4,23
+the value at that point is: 6944
+1
+Feature 4 found, the difference is:-1526 at:4,23
+the value at that point is: 4118
+1
+Feature 4 found, the difference is:-2842 at:4,23
+the value at that point is: 15836
+1
+Feature 4 found, the difference is:-120 at:4,23
+the value at that point is: 2494
+1
+Feature 4 found, the difference is:-5418 at:4,23
+the value at that point is: 20192
+1
+Feature 4 found, the difference is:-2526 at:4,23
+the value at that point is: 15588
+1
+Feature 4 found, the difference is:-2540 at:4,23
+the value at that point is: 13640
+1
+Feature 4 found, the difference is:-2146 at:4,23
+the value at that point is: 7514
+1
+Feature 4 found, the difference is:378 at:4,23
+the value at that point is: 4876
+1
+Feature 4 found, the difference is:-1525 at:4,23
+the value at that point is: 8735
+1
+Feature 4 found, the difference is:-1903 at:4,23
+the value at that point is: 9379
+1
+Feature 4 found, the difference is:-843 at:4,23
+the value at that point is: 12275
+1
+Feature 4 found, the difference is:-1630 at:4,23
+the value at that point is: 4926
+1
+Feature 4 found, the difference is:-2065 at:4,23
+the value at that point is: 7535
+1
+Feature 4 found, the difference is:305 at:4,23
+the value at that point is: 12717
+1
+Feature 4 found, the difference is:-1247 at:4,23
+the value at that point is: 3647
+1
+Feature 4 found, the difference is:-4880 at:4,23
+the value at that point is: 15344
+1
+Feature 4 found, the difference is:-1618 at:4,23
+the value at that point is: 4946
+1
+Feature 4 found, the difference is:-6309 at:4,23
+the value at that point is: 18931
+1
+Feature 4 found, the difference is:-3155 at:4,23
+the value at that point is: 9939
+1
+Feature 4 found, the difference is:761 at:4,23
+the value at that point is: 6711
+1
+Feature 4 found, the difference is:-3709 at:4,23
+the value at that point is: 13095
+1
+Feature 4 found, the difference is:-1025 at:4,23
+the value at that point is: 5893
+1
+Feature 4 found, the difference is:-2592 at:4,23
+the value at that point is: 11020
+1
+Feature 4 found, the difference is:-3262 at:4,23
+the value at that point is: 12512
+1
+Feature 4 found, the difference is:-2724 at:4,23
+the value at that point is: 14148
+1
+Feature 4 found, the difference is:-2054 at:4,23
+the value at that point is: 5730
+1
+Feature 4 found, the difference is:-3357 at:4,23
+the value at that point is: 9977
+1
+Feature 4 found, the difference is:-1441 at:4,23
+the value at that point is: 4319
+1
+Feature 4 found, the difference is:-1401 at:4,23
+the value at that point is: 4263
+1
+Feature 4 found, the difference is:-3275 at:4,23
+the value at that point is: 11233
+1
+Feature 4 found, the difference is:-1418 at:4,23
+the value at that point is: 5786
+1
+Feature 4 found, the difference is:-1129 at:4,23
+the value at that point is: 5613
+1
+Feature 4 found, the difference is:-2656 at:4,23
+the value at that point is: 18554
+1
+Feature 4 found, the difference is:-4792 at:4,23
+the value at that point is: 19562
+1
+Feature 4 found, the difference is:-1719 at:4,23
+the value at that point is: 4843
+1
+Feature 4 found, the difference is:-1529 at:4,23
+the value at that point is: 8981
+1
+Feature 4 found, the difference is:-2891 at:4,23
+the value at that point is: 11929
+1
+Feature 4 found, the difference is:-3873 at:4,23
+the value at that point is: 17873
+1
+Feature 4 found, the difference is:-4544 at:4,23
+the value at that point is: 12500
+1
+Feature 4 found, the difference is:-1641 at:4,23
+the value at that point is: 7985
+1
+Feature 4 found, the difference is:-3472 at:4,23
+the value at that point is: 19696
+1
+Feature 4 found, the difference is:-1456 at:4,23
+the value at that point is: 15204
+1
+Feature 4 found, the difference is:-1743 at:4,23
+the value at that point is: 10879
+1
+Feature 4 found, the difference is:-1394 at:4,23
+the value at that point is: 6984
+1
+Feature 4 found, the difference is:-2753 at:4,23
+the value at that point is: 10681
+1
+Feature 4 found, the difference is:-1847 at:4,23
+the value at that point is: 7515
+1
+Feature 4 found, the difference is:-2414 at:4,23
+the value at that point is: 7198
+1
+Feature 4 found, the difference is:-3772 at:4,23
+the value at that point is: 10188
+1
+Feature 4 found, the difference is:-463 at:4,23
+the value at that point is: 3707
+1
+Feature 4 found, the difference is:-3184 at:4,23
+the value at that point is: 17862
+1
+Feature 4 found, the difference is:-1671 at:4,23
+the value at that point is: 9189
+1
+Feature 4 found, the difference is:-1900 at:4,23
+the value at that point is: 7262
+1
+Feature 4 found, the difference is:-2455 at:4,23
+the value at that point is: 9595
+1
+Feature 4 found, the difference is:-581 at:4,23
+the value at that point is: 6519
+1
+Feature 4 found, the difference is:-463 at:4,23
+the value at that point is: 5835
+1
+Feature 4 found, the difference is:-1217 at:4,23
+the value at that point is: 8349
+1
+Feature 4 found, the difference is:-560 at:4,23
+the value at that point is: 3640
+1
+Feature 4 found, the difference is:-2875 at:4,23
+the value at that point is: 6311
+1
+Feature 4 found, the difference is:-100 at:4,23
+the value at that point is: 3910
+1
+Feature 4 found, the difference is:-1004 at:4,23
+the value at that point is: 5094
+1
+Feature 4 found, the difference is:-1068 at:4,23
+the value at that point is: 3642
+1
+Feature 4 found, the difference is:-4661 at:4,23
+the value at that point is: 8183
+1
+Feature 4 found, the difference is:-6430 at:4,23
+the value at that point is: 18626
+1
+Feature 4 found, the difference is:736 at:4,23
+the value at that point is: 9622
+1
+Feature 4 found, the difference is:-2844 at:4,23
+the value at that point is: 8632
+1
+Feature 4 found, the difference is:-1517 at:4,23
+the value at that point is: 7245
+1
+Feature 4 found, the difference is:419 at:4,23
+the value at that point is: 7019
+1
+Feature 4 found, the difference is:1067 at:4,23
+the value at that point is: 5037
+1
+Feature 4 found, the difference is:1244 at:4,23
+the value at that point is: 3504
+1
+Feature 4 found, the difference is:-1874 at:4,23
+the value at that point is: 5698
+1
+Feature 4 found, the difference is:-722 at:4,23
+the value at that point is: 12566
+1
+Feature 4 found, the difference is:-2175 at:4,23
+the value at that point is: 6607
+1
+Feature 4 found, the difference is:-2439 at:4,23
+the value at that point is: 5747
+1
+Feature 4 found, the difference is:-1788 at:4,23
+the value at that point is: 11224
+1
+Feature 4 found, the difference is:-2335 at:4,23
+the value at that point is: 12795
+1
+Feature 4 found, the difference is:-2592 at:4,23
+the value at that point is: 9408
+1
+Feature 4 found, the difference is:-667 at:4,23
+the value at that point is: 3551
+1
+Feature 4 found, the difference is:395 at:4,23
+the value at that point is: 5647
+1
+Feature 4 found, the difference is:-1053 at:4,23
+the value at that point is: 3195
+1
+Feature 4 found, the difference is:-1486 at:4,23
+the value at that point is: 8816
+1
+Feature 4 found, the difference is:-2688 at:4,23
+the value at that point is: 9516
+1
+Feature 4 found, the difference is:-5827 at:4,23
+the value at that point is: 20757
+1
+Feature 4 found, the difference is:1068 at:4,23
+the value at that point is: 9930
+1
+Feature 4 found, the difference is:-316 at:4,23
+the value at that point is: 9068
+1
+Feature 4 found, the difference is:636 at:4,23
+the value at that point is: 5060
+1
+Feature 4 found, the difference is:-2162 at:4,23
+the value at that point is: 14672
+1
+Feature 4 found, the difference is:48 at:4,23
+the value at that point is: 1462
+1
+Feature 4 found, the difference is:-2028 at:4,23
+the value at that point is: 6472
+1
+Feature 4 found, the difference is:-2496 at:4,23
+the value at that point is: 9816
+1
+Feature 4 found, the difference is:-328 at:4,23
+the value at that point is: 4066
+1
+Feature 4 found, the difference is:-540 at:4,23
+the value at that point is: 3700
+1
+Feature 4 found, the difference is:-406 at:4,23
+the value at that point is: 1644
+1
+Feature 4 found, the difference is:-2158 at:4,23
+the value at that point is: 8958
+1
+Feature 4 found, the difference is:-3691 at:4,23
+the value at that point is: 14409
+1
+Feature 4 found, the difference is:-3240 at:4,23
+the value at that point is: 11080
+1
+Feature 4 found, the difference is:-3411 at:4,23
+the value at that point is: 16003
+1
+Feature 4 found, the difference is:-672 at:4,23
+the value at that point is: 9250
+1
+Feature 4 found, the difference is:-5229 at:4,23
+the value at that point is: 13851
+1
+Feature 4 found, the difference is:-3835 at:4,23
+the value at that point is: 13813
+1
+Feature 4 found, the difference is:340 at:4,23
+the value at that point is: 10012
+1
+Feature 4 found, the difference is:-4996 at:4,23
+the value at that point is: 16514
+1
+Feature 4 found, the difference is:-2822 at:4,23
+the value at that point is: 11388
+1
+Feature 4 found, the difference is:-5656 at:4,23
+the value at that point is: 10866
+1
+Feature 4 found, the difference is:-1937 at:4,23
+the value at that point is: 7599
+1
+Feature 4 found, the difference is:-2410 at:4,23
+the value at that point is: 9544
+1
+Feature 4 found, the difference is:-1247 at:4,23
+the value at that point is: 5469
+1
+Feature 4 found, the difference is:-6582 at:10,23
+the value at that point is: 45422
+1
+Feature 4 found, the difference is:-4226 at:4,23
+the value at that point is: 17988
+1
+Feature 4 found, the difference is:-629 at:4,23
+the value at that point is: 7797
+1
+Feature 4 found, the difference is:-1520 at:4,23
+the value at that point is: 8744
+1
+Feature 4 found, the difference is:-2255 at:4,23
+the value at that point is: 12849
+1
+Feature 4 found, the difference is:694 at:4,23
+the value at that point is: 7810
+1
+Feature 4 found, the difference is:-816 at:4,23
+the value at that point is: 6874
+1
+Feature 4 found, the difference is:-4752 at:4,23
+the value at that point is: 17090
+1
+Feature 4 found, the difference is:935 at:4,23
+the value at that point is: 5407
+1
+Feature 4 found, the difference is:606 at:4,23
+the value at that point is: 5490
+1
+Feature 4 found, the difference is:-1741 at:4,23
+the value at that point is: 7567
+1
+Feature 4 found, the difference is:-3653 at:4,23
+the value at that point is: 15351
+1
+Feature 4 found, the difference is:-1797 at:4,23
+the value at that point is: 8651
+1
+Feature 4 found, the difference is:108 at:4,23
+the value at that point is: 6274
+1
+Feature 4 found, the difference is:-53 at:4,23
+the value at that point is: 4777
+1
+Feature 4 found, the difference is:-697 at:4,23
+the value at that point is: 6373
+1
+Feature 4 found, the difference is:330 at:4,23
+the value at that point is: 2684
+1
+Feature 4 found, the difference is:-313 at:4,23
+the value at that point is: 8879
+1
+Feature 4 found, the difference is:-149 at:4,23
+the value at that point is: 3657
+1
+Feature 4 found, the difference is:1929 at:4,23
+the value at that point is: 5803
+1
+Feature 4 found, the difference is:-447 at:4,23
+the value at that point is: 5801
+1
+Feature 4 found, the difference is:-920 at:4,23
+the value at that point is: 4728
+1
+Feature 4 found, the difference is:-4748 at:4,23
+the value at that point is: 15402
+1
+Feature 4 found, the difference is:-2836 at:4,23
+the value at that point is: 8536
+1
+Feature 4 found, the difference is:-2336 at:4,23
+the value at that point is: 7572
+1
+Feature 4 found, the difference is:-2495 at:4,23
+the value at that point is: 8151
+1
+Feature 4 found, the difference is:254 at:4,23
+the value at that point is: 2670
+1
+Feature 4 found, the difference is:-1213 at:4,23
+the value at that point is: 4201
+1
+Feature 4 found, the difference is:119 at:4,23
+the value at that point is: 2295
+1
+Feature 4 found, the difference is:-2227 at:4,23
+the value at that point is: 8165
+1
+Feature 4 found, the difference is:-2568 at:4,23
+the value at that point is: 6988
+1
+Feature 4 found, the difference is:-1704 at:4,23
+the value at that point is: 5594
+1
+Feature 4 found, the difference is:-742 at:4,23
+the value at that point is: 4682
+1
+Feature 4 found, the difference is:-29 at:4,23
+the value at that point is: 5157
+1
+Feature 4 found, the difference is:-4039 at:4,23
+the value at that point is: 14027
+1
+Feature 4 found, the difference is:898 at:4,23
+the value at that point is: 4922
+1
+Feature 4 found, the difference is:-402 at:4,23
+the value at that point is: 5784
+1
+Feature 4 found, the difference is:-488 at:4,23
+the value at that point is: 3846
+1
+Feature 4 found, the difference is:-2824 at:4,23
+the value at that point is: 10332
+1
+Feature 4 found, the difference is:426 at:4,23
+the value at that point is: 6044
+1
+Feature 4 found, the difference is:-2502 at:4,23
+the value at that point is: 8440
+1
+Feature 4 found, the difference is:-2572 at:4,23
+the value at that point is: 8128
+1
+Feature 4 found, the difference is:-632 at:4,23
+the value at that point is: 5228
+1
+Feature 4 found, the difference is:-1185 at:4,23
+the value at that point is: 14475
+1
+Feature 4 found, the difference is:-1302 at:4,23
+the value at that point is: 14440
+1
+Feature 4 found, the difference is:-6495 at:5,23
+the value at that point is: 26895
+1
+Feature 4 found, the difference is:-665 at:4,23
+the value at that point is: 4083
+1
+Feature 4 found, the difference is:-867 at:4,23
+the value at that point is: 4179
+1
+Feature 4 found, the difference is:-3297 at:4,23
+the value at that point is: 11241
+1
+Feature 4 found, the difference is:283 at:4,23
+the value at that point is: 7913
+1
+Feature 4 found, the difference is:-3431 at:4,23
+the value at that point is: 13175
+1
+Feature 4 found, the difference is:-3930 at:4,23
+the value at that point is: 13580
+1
+Feature 4 found, the difference is:-8 at:4,23
+the value at that point is: 3444
+1
+Feature 4 found, the difference is:-1552 at:4,23
+the value at that point is: 4950
+1
+Feature 4 found, the difference is:-703 at:4,23
+the value at that point is: 4173
+1
+Feature 4 found, the difference is:174 at:4,23
+the value at that point is: 8240
+1
+Feature 4 found, the difference is:-1955 at:4,23
+the value at that point is: 6895
+1
+Feature 4 found, the difference is:-1019 at:4,23
+the value at that point is: 8105
+1
+Feature 4 found, the difference is:745 at:4,23
+the value at that point is: 7369
+1
+Feature 4 found, the difference is:-2094 at:4,23
+the value at that point is: 9394
+1
+Feature 4 found, the difference is:-3575 at:4,23
+the value at that point is: 11099
+1
+Feature 4 found, the difference is:-4010 at:4,23
+the value at that point is: 14392
+1
+Feature 4 found, the difference is:-4196 at:4,23
+the value at that point is: 13294
+1
+Feature 4 found, the difference is:-3465 at:4,23
+the value at that point is: 8571
+1
+Feature 4 found, the difference is:-1511 at:4,23
+the value at that point is: 4753
+1
+Feature 4 found, the difference is:-5515 at:4,23
+the value at that point is: 15067
+1
+Feature 4 found, the difference is:-2712 at:4,23
+the value at that point is: 11096
+1
+Feature 4 found, the difference is:-2092 at:4,23
+the value at that point is: 11674
+1
+Feature 4 found, the difference is:-2576 at:4,23
+the value at that point is: 11156
+1
+0
+Feature 4 found, the difference is:-1627 at:4,23
+the value at that point is: 6967
+1
+Feature 4 found, the difference is:-2939 at:4,23
+the value at that point is: 9733
+1
+Feature 4 found, the difference is:-3633 at:4,23
+the value at that point is: 12769
+1
+Feature 4 found, the difference is:-2883 at:4,23
+the value at that point is: 9551
+1
+Feature 4 found, the difference is:-2505 at:4,23
+the value at that point is: 8641
+1
+Feature 4 found, the difference is:-3006 at:4,23
+the value at that point is: 10536
+1
+Feature 4 found, the difference is:-3551 at:4,23
+the value at that point is: 13019
+1
+Feature 4 found, the difference is:-2653 at:4,23
+the value at that point is: 9097
+1
+Feature 4 found, the difference is:-2863 at:4,23
+the value at that point is: 8639
+1
+Feature 4 found, the difference is:-2139 at:4,23
+the value at that point is: 7375
+1
+Feature 4 found, the difference is:-1135 at:4,23
+the value at that point is: 3215
+1
+Feature 4 found, the difference is:-5149 at:4,23
+the value at that point is: 15779
+1
+Feature 4 found, the difference is:-4329 at:4,23
+the value at that point is: 14421
+1
+Feature 4 found, the difference is:-5960 at:4,23
+the value at that point is: 14556
+1
+Feature 4 found, the difference is:-2027 at:4,23
+the value at that point is: 7195
+1
+Feature 4 found, the difference is:-1268 at:4,23
+the value at that point is: 7582
+1
+Feature 4 found, the difference is:-1099 at:4,23
+the value at that point is: 4833
+1
+Feature 4 found, the difference is:-413 at:4,23
+the value at that point is: 5677
+1
+0
+Feature 4 found, the difference is:-2184 at:4,23
+the value at that point is: 7372
+1
+Feature 4 found, the difference is:-5021 at:4,23
+the value at that point is: 15279
+1
+Feature 4 found, the difference is:-2380 at:4,23
+the value at that point is: 9098
+1
+Feature 4 found, the difference is:-4156 at:4,23
+the value at that point is: 11978
+1
+Feature 4 found, the difference is:-2234 at:4,23
+the value at that point is: 6994
+1
+Feature 4 found, the difference is:-2167 at:4,23
+the value at that point is: 7143
+1
+Feature 4 found, the difference is:-6580 at:6,23
+the value at that point is: 27342
+1
+Feature 4 found, the difference is:-3764 at:4,23
+the value at that point is: 11626
+1
+Feature 4 found, the difference is:-3438 at:4,23
+the value at that point is: 11592
+1
+Feature 4 found, the difference is:-4823 at:4,23
+the value at that point is: 13755
+1
+Feature 4 found, the difference is:-2898 at:4,23
+the value at that point is: 11152
+1
+Feature 4 found, the difference is:-1563 at:4,23
+the value at that point is: 11029
+1
+Feature 4 found, the difference is:-1766 at:4,23
+the value at that point is: 5742
+1
+Feature 4 found, the difference is:-654 at:4,23
+the value at that point is: 2652
+1
+0
+Feature 4 found, the difference is:-5037 at:4,23
+the value at that point is: 13261
+1
+Feature 4 found, the difference is:-2496 at:4,23
+the value at that point is: 10474
+1
+Feature 4 found, the difference is:-1869 at:4,23
+the value at that point is: 6575
+1
+Feature 4 found, the difference is:-1363 at:4,23
+the value at that point is: 5791
+1
+Feature 4 found, the difference is:-2387 at:4,23
+the value at that point is: 8505
+1
+Feature 4 found, the difference is:-2655 at:4,23
+the value at that point is: 8701
+1
+Feature 4 found, the difference is:-2426 at:4,23
+the value at that point is: 6252
+1
+Feature 4 found, the difference is:-4866 at:4,23
+the value at that point is: 17366
+1
+Feature 4 found, the difference is:-1533 at:4,23
+the value at that point is: 4747
+1
+Feature 4 found, the difference is:-646 at:4,23
+the value at that point is: 4350
+1
+Feature 4 found, the difference is:-3000 at:4,23
+the value at that point is: 6878
+1
+Feature 4 found, the difference is:-2761 at:4,23
+the value at that point is: 7665
+1
+Feature 4 found, the difference is:-1483 at:4,23
+the value at that point is: 5469
+1
+Feature 4 found, the difference is:-1243 at:4,23
+the value at that point is: 3747
+1
+Feature 4 found, the difference is:-748 at:4,23
+the value at that point is: 3368
+1
+Feature 4 found, the difference is:-4513 at:4,23
+the value at that point is: 13731
+1
+Feature 4 found, the difference is:-3162 at:4,23
+the value at that point is: 12706
+1
+Feature 4 found, the difference is:-1646 at:4,23
+the value at that point is: 19780
+1
+Feature 4 found, the difference is:-942 at:4,23
+the value at that point is: 5246
+1
+Feature 4 found, the difference is:-3932 at:4,23
+the value at that point is: 12750
+1
+Feature 4 found, the difference is:-4857 at:4,23
+the value at that point is: 14507
+1
+Feature 4 found, the difference is:-4066 at:4,23
+the value at that point is: 13186
+1
+Feature 4 found, the difference is:-2643 at:4,23
+the value at that point is: 16453
+1
+0
+Feature 4 found, the difference is:-3666 at:4,23
+the value at that point is: 11738
+1
+Feature 4 found, the difference is:-3148 at:4,23
+the value at that point is: 12424
+1
+Feature 4 found, the difference is:-6455 at:14,23
+the value at that point is: 76268
+1
+Feature 4 found, the difference is:-4196 at:4,23
+the value at that point is: 23984
+1
+Feature 4 found, the difference is:-4474 at:4,23
+the value at that point is: 14074
+1
+Feature 4 found, the difference is:-3346 at:4,23
+the value at that point is: 9958
+1
+Feature 4 found, the difference is:-3652 at:4,23
+the value at that point is: 10360
+1

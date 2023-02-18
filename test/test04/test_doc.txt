@@ -1,0 +1,2 @@
+Print out the Performace of current graph. That is how long to process each image. Remember to change the working folder to test 
+with different images.
