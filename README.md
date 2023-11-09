@@ -1,4 +1,23 @@
-# team1
+# Embedded Face Detection System (EFDS) and Training Algorithm Project
+
+## Overview
+
+This repository is dedicated to the development of an Embedded Face Detection System (EFDS) and its corresponding training algorithm. The project has been meticulously structured to facilitate the independent yet parallel development of its integral parts, namely the face detection algorithm and the training system.
+
+## Build and Execution
+
+To build and execute the components of this project:
+
+1. Ensure you have a C++ compiler and MATLAB installed on your system.
+2. Clone the repository to your local machine.
+3. Run CMake.
+
+## Final Remarks
+
+The EFDS project illustrates a successful implementation of the Viola-Jones algorithm, which, while working in parallel with the design principles of neural networks, showcases the unique independent yet integrated functioning of strong classifiers.
+
+We value the adaptability and parallel work approach that allowed us to overcome challenges and learn valuable lessons in collaborative software engineering.
+
 
 The dataset is under /dataset. Positive and negative samples are stored in /dataset/good_integral and /dataset/bad_integral. Each of the folders contain three subfolders: test, validation, and train.
 
