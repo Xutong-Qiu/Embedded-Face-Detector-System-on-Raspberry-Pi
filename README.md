@@ -4,6 +4,7 @@
 
 This repository is dedicated to the development of an Embedded Face Detection System (EFDS) and its corresponding training algorithm. The project has been meticulously structured to facilitate the independent yet parallel development of its integral parts, namely the face detection algorithm and the training system.
 
+To learn more about this project, please refer to doc/final_report
 ## Build and Execution
 
 To build and execute the components of this project:
